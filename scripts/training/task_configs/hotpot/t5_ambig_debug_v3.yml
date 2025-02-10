@@ -1,0 +1,77 @@
+tokenizer:
+  model_name: /mnt/workspace/user/gaojingsheng/LLM/checkpoint/flan-t5-base
+  padding_side: left
+  truncation_side: left
+  pad_token_as_eos_token: False
+
+reward_fn:
+  id: rouge_l_max
+  args:
+    max_n: 4
+    limit_length: True
+    length_limit: 100
+    length_limit_type: "words"
+    apply_avg: True
+    apply_best: True
+    alpha: 0.5
+    weight_factor: 1.2
+    stemming: True
+
+
+datapool:
+  id: ambig
+  # args:
+  #   # prompt_prefix: "rewrite a better search query: "
+  #   # ifdebug: True
+
+
+env:
+  n_envs: 10
+  args:
+    max_prompt_length: 512
+    max_episode_length: 50
+    terminate_on_eos: True
+    prompt_truncation_side: "right"
+    context_start_token: 0
+
+alg:
+  id: ppo
+  args: 
+    n_steps: 32
+    batch_size: 16 # # 64 # 8 ~ 47G显存
+    verbose: 1
+    learning_rate: 0.000002
+    n_epochs: 2 
+    ent_coef: 0.0
+  kl_div:
+    coeff: 0.001
+    target_kl: 0.2
+  policy:
+    id: seq2seq_lm_actor_critic_policy
+    args:
+      model_name: /mnt/workspace/user/gaojingsheng/LLM/checkpoint/flan-t5-base
+      apply_model_parallel: True
+      prompt_truncation_side: "right"
+      generation_kwargs:
+        min_length: 1
+        max_length: 50
+        num_return_sequences: 1
+        num_beams: 4          
+        # do_sample: True
+        # top_k: 100
+train_evaluation:
+  eval_batch_size: 16
+  n_iters: 50
+  eval_every: 1
+  save_every: 10
+  metrics:
+    - id: rouge
+      args:
+        use_single_ref: False
+
+  generation_kwargs: 
+    min_length: 1
+    max_length: 50
+    num_return_sequences: 1
+    num_beams: 4
+

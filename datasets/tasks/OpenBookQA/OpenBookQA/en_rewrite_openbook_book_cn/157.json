@@ -1,0 +1,9 @@
+{
+  "text": "squirrels eat edible plants",
+  "id": 157,
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: squirrels eat edible plants\n\n<question>: ",
+  "ChatGPT_response_0": "Squirrels typically include a variety of foods in their diet, primarily consisting of edible plant materials. This includes seeds, nuts (such as acorns and hazelnuts), fruits (like berries), and sometimes even flowers and bark. They may also consume fungi and, in some cases, will eat insects or small invertebrates to supplement their diet.",
+  "query": "What do squirrels typically include in their diet?",
+  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: What do squirrels typically include in their diet?\n\n<reference text>: squirrels eat edible plants\n\n<reply>: ",
+  "response": "Squirrels typically include a variety of foods in their diet, primarily consisting of edible plant materials. This includes seeds, nuts (such as acorns and hazelnuts), fruits (like berries), and sometimes even flowers and bark. They may also consume fungi and, in some cases, will eat insects or small invertebrates to supplement their diet."
+}

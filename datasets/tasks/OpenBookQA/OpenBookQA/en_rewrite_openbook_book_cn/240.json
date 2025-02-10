@@ -1,0 +1,9 @@
+{
+  "text": "bees eat pollen",
+  "id": 240,
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: bees eat pollen\n\n<question>: ",
+  "ChatGPT_response_0": "Bees primarily consume pollen for their nourishment. This substance serves as an essential source of proteins, fats, vitamins, and minerals that are crucial for their diet. Additionally, bees also gather nectar, which provides them with carbohydrates in the form of sugars, necessary for energy.",
+  "query": "What do bees primarily consume for their nourishment?",
+  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: What do bees primarily consume for their nourishment?\n\n<reference text>: bees eat pollen\n\n<reply>: ",
+  "response": "Bees primarily consume pollen for their nourishment. This substance serves as an essential source of proteins, fats, vitamins, and minerals that are crucial for their diet. Additionally, bees also gather nectar, which provides them with carbohydrates in the form of sugars, necessary for energy."
+}

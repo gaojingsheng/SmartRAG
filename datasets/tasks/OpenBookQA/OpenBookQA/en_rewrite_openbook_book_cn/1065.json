@@ -1,0 +1,9 @@
+{
+  "text": "humans eat crops",
+  "id": 1065,
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: humans eat crops\n\n<question>: ",
+  "ChatGPT_response_0": "Humans primarily consume a variety of crops as their main source of plant-derived food. These include staples such as rice, wheat, and corn, which serve as major components of diets around the world. Other significant plant-based foods include vegetables, fruits, legumes, nuts, and seeds, which provide essential nutrients and dietary fiber. These plant-derived foods are foundational to human nutrition and are cultivated globally to meet the dietary needs of populations.",
+  "query": "What do humans consume as a primary source of food derived from plants?",
+  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: What do humans consume as a primary source of food derived from plants?\n\n<reference text>: humans eat crops\n\n<reply>: ",
+  "response": "Humans primarily consume a variety of crops as their main source of plant-derived food. These include staples such as rice, wheat, and corn, which serve as major components of diets around the world. Other significant plant-based foods include vegetables, fruits, legumes, nuts, and seeds, which provide essential nutrients and dietary fiber. These plant-derived foods are foundational to human nutrition and are cultivated globally to meet the dietary needs of populations."
+}

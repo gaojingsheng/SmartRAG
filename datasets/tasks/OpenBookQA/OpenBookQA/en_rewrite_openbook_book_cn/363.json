@@ -1,0 +1,9 @@
+{
+  "text": "when a hibernating frog emergest from mud , that frog has ended its hibernation",
+  "id": 363,
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: when a hibernating frog emergest from mud , that frog has ended its hibernation\n\n<question>: ",
+  "ChatGPT_response_0": "The end of a frog's hibernation phase is signaled by its emergence from the mud.",
+  "query": "What signals the end of a frog's hibernation phase?",
+  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: What signals the end of a frog's hibernation phase?\n\n<reference text>: when a hibernating frog emergest from mud , that frog has ended its hibernation\n\n<reply>: ",
+  "response": "The end of a frog's hibernation phase is signaled by its emergence from the mud."
+}

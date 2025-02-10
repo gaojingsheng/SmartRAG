@@ -1,0 +1,9 @@
+{
+  "text": "carbohydrates are made of sugars",
+  "id": 731,
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: carbohydrates are made of sugars\n\n<question>: ",
+  "ChatGPT_response_0": "Carbohydrates are composed of sugar molecules, which include single sugar units (monosaccharides) and compounds of multiple sugar units (such as disaccharides and polysaccharides). These sugars contain elements of carbon, hydrogen, and oxygen, typically in a ratio of 1:2:1. The basic building blocks of carbohydrates are therefore these sugar molecules, which can vary in structure and complexity from simple sugars like glucose to complex starches and dietary fiber found in many plants.",
+  "query": "What are carbohydrates composed of?",
+  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: What are carbohydrates composed of?\n\n<reference text>: carbohydrates are made of sugars\n\n<reply>: ",
+  "response": "Carbohydrates are composed of sugar molecules, which include single sugar units (monosaccharides) and compounds of multiple sugar units (such as disaccharides and polysaccharides). These sugars contain elements of carbon, hydrogen, and oxygen, typically in a ratio of 1:2:1. The basic building blocks of carbohydrates are therefore these sugar molecules, which can vary in structure and complexity from simple sugars like glucose to complex starches and dietary fiber found in many plants."
+}

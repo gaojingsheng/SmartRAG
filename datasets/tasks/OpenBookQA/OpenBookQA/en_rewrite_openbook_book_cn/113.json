@@ -1,0 +1,9 @@
+{
+  "text": "A bird is a pollinating animal",
+  "id": 113,
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: A bird is a pollinating animal\n\n<question>: ",
+  "ChatGPT_response_0": "An example of an animal that contributes to the process of pollination in plants is a bird. Birds, especially those that feed on nectar, play a significant role in transferring pollen from one flower to another, thus aiding in the pollination process.",
+  "query": "<question>: What is an example of an animal that contributes to the process of pollination in plants?",
+  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: <question>: What is an example of an animal that contributes to the process of pollination in plants?\n\n<reference text>: A bird is a pollinating animal\n\n<reply>: ",
+  "response": "An example of an animal that contributes to the process of pollination in plants is a bird. Birds, especially those that feed on nectar, play a significant role in transferring pollen from one flower to another, thus aiding in the pollination process."
+}

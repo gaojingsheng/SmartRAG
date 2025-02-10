@@ -1,0 +1,9 @@
+{
+  "text": "raccoons eat waste",
+  "id": 1212,
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: raccoons eat waste\n\n<question>: ",
+  "ChatGPT_response_0": "When raccoons scavenge in urban areas, they commonly consume discarded food waste. This can include various items from household trash or garbage cans left out for pickup, such as leftovers, fruits, vegetables, and essentially anything else they can find that was thrown away. Their diet is quite versatile and opportunistic, allowing them to adapt to various environments, including those heavily influenced by humans.",
+  "query": "What do raccoons commonly consume when scavenging in urban areas?",
+  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: What do raccoons commonly consume when scavenging in urban areas?\n\n<reference text>: raccoons eat waste\n\n<reply>: ",
+  "response": "When raccoons scavenge in urban areas, they commonly consume discarded food waste. This can include various items from household trash or garbage cans left out for pickup, such as leftovers, fruits, vegetables, and essentially anything else they can find that was thrown away. Their diet is quite versatile and opportunistic, allowing them to adapt to various environments, including those heavily influenced by humans."
+}

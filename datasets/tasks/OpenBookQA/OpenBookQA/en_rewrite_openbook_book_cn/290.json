@@ -1,0 +1,9 @@
+{
+  "text": "a plant requires sunlight for photosynthesis",
+  "id": 290,
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: a plant requires sunlight for photosynthesis\n\n<question>: ",
+  "ChatGPT_response_0": "For a plant to perform photosynthesis, it is necessary for it to have access to sunlight.",
+  "query": "What is necessary for a plant to perform photosynthesis?",
+  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: What is necessary for a plant to perform photosynthesis?\n\n<reference text>: a plant requires sunlight for photosynthesis\n\n<reply>: ",
+  "response": "For a plant to perform photosynthesis, it is necessary for it to have access to sunlight."
+}

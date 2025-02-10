@@ -1,0 +1,9 @@
+{
+  "text": "a warm front causes cloudy and rainy weather",
+  "id": 126,
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: a warm front causes cloudy and rainy weather\n\n<question>: ",
+  "ChatGPT_response_0": "When a warm front is approaching, one should expect cloudy skies and rainy conditions. This type of weather occurs as the warm air mass gradually replaces a cooler air mass, leading to cloud formation and precipitation.",
+  "query": "What type of weather conditions should one expect when a warm front is approaching?",
+  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: What type of weather conditions should one expect when a warm front is approaching?\n\n<reference text>: a warm front causes cloudy and rainy weather\n\n<reply>: ",
+  "response": "When a warm front is approaching, one should expect cloudy skies and rainy conditions. This type of weather occurs as the warm air mass gradually replaces a cooler air mass, leading to cloud formation and precipitation."
+}

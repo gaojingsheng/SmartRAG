@@ -1,0 +1,9 @@
+{
+  "text": "polar bears live in cold environments",
+  "id": 70,
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: polar bears live in cold environments\n\n<question>: ",
+  "ChatGPT_response_0": "Polar bears prefer habitats in cold environments, typically in regions where sea ice is prevalent. They are primarily found in areas around the Arctic Circle, including parts of the United States (Alaska), Canada, Russia, Greenland, and Norway (Svalbard). These habitats are crucial as they allow polar bears to hunt their primary prey, which includes seals, by providing a platform from which they can access the ocean and catch their prey.",
+  "query": "What is the preferred habitat of polar bears?",
+  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: What is the preferred habitat of polar bears?\n\n<reference text>: polar bears live in cold environments\n\n<reply>: ",
+  "response": "Polar bears prefer habitats in cold environments, typically in regions where sea ice is prevalent. They are primarily found in areas around the Arctic Circle, including parts of the United States (Alaska), Canada, Russia, Greenland, and Norway (Svalbard). These habitats are crucial as they allow polar bears to hunt their primary prey, which includes seals, by providing a platform from which they can access the ocean and catch their prey."
+}
