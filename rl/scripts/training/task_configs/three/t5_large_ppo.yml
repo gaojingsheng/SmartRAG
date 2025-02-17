@@ -47,7 +47,7 @@ alg:
     args:
       model_name: flan-t5-large-warm-up-60000/checkpoint-17500
       apply_model_parallel: True 
-      # 不并行就OOM,并行就有bug
+      
       prompt_truncation_side: "right"
       generation_kwargs:
         do_sample: True

@@ -45,7 +45,7 @@ alg:
     args:
       model_name: /mnt/workspace/user/gaojingsheng/LLM/retrieval/flan-t5-base-warm-up-ambignq/checkpoint-19500
       apply_model_parallel: True 
-      # 不并行就OOM,并行就有bug
+      
       prompt_truncation_side: "right"
       generation_kwargs:
         do_sample: True

@@ -18,7 +18,7 @@ if __name__ == "__main__":
     os.environ["WANDB_DISABLED"]="true"
 
     args = Seq2SeqTrainingArguments(
-        "./EMNLP/flan-t5-large-warm-up-skr-v3-query-llama/",
+        "/flan-t5-base-warm-up/",
         evaluation_strategy = "epoch",
         learning_rate=0.0003, 
         per_device_train_batch_size=8,
