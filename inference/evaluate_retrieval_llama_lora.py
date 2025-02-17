@@ -206,8 +206,8 @@ def hits(ans, res, dn, dl=False):
 
 if __name__ == "__main__":
     parser = ArgumentParser(description="Evaluate the results of retrieval LMs")
-    parser.add_argument("--base_model_path", type=str, help="path to the base model path file", default="/cpfs/user/gaojingsheng/AliA800/checkpoint/llama2-7b-chat-hf")
-    parser.add_argument("--lora_path", type=str, help="path to the base model path file", default="/cpfs/user/gaojingsheng/AliA800/self-rag/data_creation/critic/sft_llama_lora_no_special/checkpoint-900")
+    parser.add_argument("--base_model_path", type=str, help="path to the base model path file", default="checkpoint/llama2-7b-chat-hf")
+    parser.add_argument("--lora_path", type=str, help="path to the base model path file", default="self-rag/data_creation/critic/sft_llama_lora_no_special/checkpoint-900")
     parser.add_argument("--save_evaluate_path", type=str, help="path to the save path file", default="/cpfs/user/gaojingsheng/JapanA100/ICLR/llama7b/num/test_llama7b_sft_retrieval_")
     parser.add_argument('--gen_mode', choices=['normal', 'answer', 'retrieval'], 
                     default='normal', help="Generation mode, choose from 'normal', 'answer', 'retrieval'. Default is 'normal'")

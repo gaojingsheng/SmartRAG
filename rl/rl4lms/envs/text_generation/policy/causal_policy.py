@@ -77,8 +77,8 @@ class CausalLMActorCriticPolicy(LMActorCriticPolicy, ActorCriticWarmStartMixin):
         self.base_model2 = AutoModelForCausalLM.from_pretrained(model_name).to(self.value_device)
         # lora_checkpoint = torch.load(lora_path, map_location='cuda:0')
         if "7b" in model_name:
-            lora_path = "/cpfs/user/gaojingsheng/AliA800/self-rag/data_creation/critic/sft_llama_lora_no_special/checkpoint-900"
-            # lora_path = "/cpfs/user/gaojingsheng/AliA800/self-rag/data_creation/critic/sft_llama_lora_no_special_mmlu/checkpoint-250"
+            lora_path = "self-rag/data_creation/critic/sft_llama_lora_no_special/checkpoint-900"
+            # lora_path = "self-rag/data_creation/critic/sft_llama_lora_no_special_mmlu/checkpoint-250"
             # checkpoint = torch.load("/mnt/home/apiuser/gaojingsheng/RL4LMs/rl4lm_exps/rl4lm_experiment_llama_ppo_full_three_v3/checkpoints/checkpoint_15")
         elif "13b" in model_name:
             lora_path = "/mnt/home/apiuser/gaojingsheng/SFT/sft_llama_lora_no_special/checkpoint-600"

@@ -59,7 +59,7 @@ class naq(TextGenPool):
 
         split_ = split
         split = popqa.gen_split_name(split_)
-        infile = f'/cpfs/user/gaojingsheng/AliA800/RL4LMs/datasets/tasks/naq/{split}.json'
+        infile = f'RL4LMs/datasets/tasks/naq/{split}.json'
         if infile.split(".")[-1] == 'jsonl':
             lines = open(infile, 'r', encoding='utf8').readlines()
             lines = [json.loads(l) for l in lines] 
@@ -101,7 +101,7 @@ class three(TextGenPool):
         split = popqa.gen_split_name(split_)
         if split == "train":
             split = "train_retrieval"
-        infile = f'/cpfs/user/gaojingsheng/AliA800/RL4LMs/datasets/tasks/three/{split}.json'
+        infile = f'RL4LMs/datasets/tasks/three/{split}.json'
         if infile.split(".")[-1] == 'jsonl':
             lines = open(infile, 'r', encoding='utf8').readlines()
             lines = [json.loads(l) for l in lines] 
@@ -152,7 +152,7 @@ class SelectionThree(TextGenPool):
         split_ = split
         split = popqa.gen_split_name(split_)
 
-        infile = f'/cpfs/user/gaojingsheng/AliA800/RL4LMs/datasets/tasks/SelectionThree/{split}.json'
+        infile = f'RL4LMs/datasets/tasks/SelectionThree/{split}.json'
         if infile.split(".")[-1] == 'jsonl':
             lines = open(infile, 'r', encoding='utf8').readlines()
             lines = [json.loads(l) for l in lines] 
@@ -192,7 +192,7 @@ class ambignq(TextGenPool):
 
         split_ = split
         split = popqa.gen_split_name(split_)
-        infile = f'/cpfs/user/gaojingsheng/AliA800/RL4LMs/datasets/tasks/ambignq/{split}.jsonl'
+        infile = f'RL4LMs/datasets/tasks/ambignq/{split}.jsonl'
         if infile.split(".")[-1] == 'jsonl':
             lines = open(infile, 'r', encoding='utf8').readlines()
             lines = [json.loads(l) for l in lines] 
@@ -232,7 +232,7 @@ class popqa(TextGenPool):
 
         split_ = split
         split = popqa.gen_split_name(split_)
-        infile = f'/cpfs/user/gaojingsheng/AliA800/RL4LMs/datasets/tasks/popqa/{split}.jsonl'
+        infile = f'RL4LMs/datasets/tasks/popqa/{split}.jsonl'
         if infile.split(".")[-1] == 'jsonl':
             lines = open(infile, 'r', encoding='utf8').readlines()
             lines = [json.loads(l) for l in lines] 
@@ -272,7 +272,7 @@ class triviaqa(TextGenPool):
 
         split_ = split
         split = popqa.gen_split_name(split_)
-        infile = f'/cpfs/user/gaojingsheng/AliA800/RL4LMs/datasets/tasks/triviaqa/{split}.json'
+        infile = f'RL4LMs/datasets/tasks/triviaqa/{split}.json'
         if infile.split(".")[-1] == 'jsonl':
             lines = open(infile, 'r', encoding='utf8').readlines()
             lines = [json.loads(l) for l in lines] 
@@ -312,7 +312,7 @@ class moviedata(TextGenPool):
 
         split_ = split
         split = popqa.gen_split_name(split_)
-        infile = f'/cpfs/user/gaojingsheng/AliA800/RL4LMs/datasets/tasks/moviedata/{split}.json'
+        infile = f'RL4LMs/datasets/tasks/moviedata/{split}.json'
         if infile.split(".")[-1] == 'jsonl':
             lines = open(infile, 'r', encoding='utf8').readlines()
             lines = [json.loads(l) for l in lines] 

@@ -1,5 +1,5 @@
 tokenizer:
-  model_name: /cpfs/user/gaojingsheng/AliA800/checkpoint/llama2-7b-chat-hf
+  model_name: checkpoint/llama2-7b-chat-hf
   padding_side: left
   truncation_side: left
   pad_token_as_eos_token: True
@@ -27,10 +27,10 @@ env:
 
 alg:
   id: ppo
-  model_type: causal # Mistral is a cascausal model
+  model_type: causal 
   args: 
     n_steps: 512 # 256 # 32
-    batch_size: 2 # # 64 # 8 ~ 47G显存， 必须大于1
+    batch_size: 2 # 
     gradient_accumulation_steps: 64
     verbose: 1
     learning_rate: 0.000002
@@ -42,7 +42,7 @@ alg:
   policy:
     id: causal_lm_actor_critic_policy
     args:
-      model_name: /cpfs/user/gaojingsheng/AliA800/checkpoint/llama2-7b-chat-hf
+      model_name: checkpoint/llama2-7b-chat-hf
       apply_model_parallel: True
       prompt_truncation_side: "left"
       generation_kwargs:

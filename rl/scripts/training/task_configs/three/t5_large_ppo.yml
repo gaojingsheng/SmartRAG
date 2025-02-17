@@ -1,11 +1,11 @@
 tokenizer:
-  model_name: /cpfs/user/gaojingsheng/AliA800/FinetuneT5/EMNLP/flan-t5-large-warm-up-60000/checkpoint-17500
+  model_name: flan-t5-large-warm-up/checkpoint-17500
   padding_side: left
   truncation_side: left
   pad_token_as_eos_token: False
 
 reward_fn:
-  id: exact_match # rouge_l_max
+  id: exact_match 
   args:
     think: True
 
@@ -30,10 +30,10 @@ env:
 
 alg:
   id: ppo
-  model_type: seq2seq # Mistral is a cascausal model
+  model_type: seq2seq 
   args: 
     n_steps: 512 # 256 # 32
-    batch_size: 4 # # 64 # 8 ~ 47G显存， 必须大于1
+    batch_size: 4 # 
     gradient_accumulation_steps: 8
     verbose: 1
     learning_rate: 0.000002
@@ -45,8 +45,8 @@ alg:
   policy:
     id: seq2seq_lm_actor_critic_policy
     args:
-      model_name: /cpfs/user/gaojingsheng/AliA800/FinetuneT5/EMNLP/flan-t5-large-warm-up-60000/checkpoint-17500
-      apply_model_parallel: True # False # True
+      model_name: flan-t5-large-warm-up-60000/checkpoint-17500
+      apply_model_parallel: True 
       # 不并行就OOM,并行就有bug
       prompt_truncation_side: "right"
       generation_kwargs:
