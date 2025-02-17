@@ -1,0 +1,9 @@
+{
+  "text": "a candle is a source of light when it is burned",
+  "id": 649,
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: a candle is a source of light when it is burned\n\n<question>: ",
+  "ChatGPT_response_0": "To produce light in a room without using electricity, you can use a candle. When a candle is burned, it produces light through the combustion process, illuminating the surrounding area. This is a simple and effective way to create light without the need for electrical power.",
+  "query": "How can you produce light in a room without using electricity?",
+  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: How can you produce light in a room without using electricity?\n\n<reference text>: a candle is a source of light when it is burned\n\n<reply>: ",
+  "response": "To produce light in a room without using electricity, you can use a candle. When a candle is burned, it produces light through the combustion process, illuminating the surrounding area. This is a simple and effective way to create light without the need for electrical power."
+}

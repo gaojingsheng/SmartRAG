@@ -1,9 +1,0 @@
-{
-  "text": "kilometers km are a unit used for measuring distance generally used for values between 1 and 50000000",
-  "id": 1234,
-  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: kilometers km are a unit used for measuring distance generally used for values between 1 and 50000000\n\n<question>: ",
-  "ChatGPT_response_0": "The unit of measurement typically used for gauging distances that can range from very short to up to 50 million units is kilometers (km).",
-  "query": "What unit of measurement is typically used for gauging distances that can range from very short to up to 50 million units?",
-  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: What unit of measurement is typically used for gauging distances that can range from very short to up to 50 million units?\n\n<reference text>: kilometers km are a unit used for measuring distance generally used for values between 1 and 50000000\n\n<reply>: ",
-  "response": "The unit of measurement typically used for gauging distances that can range from very short to up to 50 million units is kilometers (km)."
-}

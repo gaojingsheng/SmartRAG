@@ -1,9 +1,0 @@
-{
-  "text": "a mammal usually nurses its young",
-  "id": 351,
-  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: a mammal usually nurses its young\n\n<question>: ",
-  "ChatGPT_response_0": "Most mammals provide nutrition to their offspring shortly after birth by nursing them. This means that the mother produces milk and feeds it to her young, ensuring they receive the necessary nutrients for growth and development during the early stages of their lives.",
-  "query": "How do most mammals provide nutrition to their offspring shortly after birth?",
-  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: How do most mammals provide nutrition to their offspring shortly after birth?\n\n<reference text>: a mammal usually nurses its young\n\n<reply>: ",
-  "response": "Most mammals provide nutrition to their offspring shortly after birth by nursing them. This means that the mother produces milk and feeds it to her young, ensuring they receive the necessary nutrients for growth and development during the early stages of their lives."
-}

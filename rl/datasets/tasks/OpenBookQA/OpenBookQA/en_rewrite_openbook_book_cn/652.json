@@ -1,0 +1,9 @@
+{
+  "text": "a sea turtle lives in the ocean",
+  "id": 652,
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: a sea turtle lives in the ocean\n\n<question>: ",
+  "ChatGPT_response_0": "The natural habitat of a sea turtle encompasses oceanic environments. These marine reptiles are adapted to live in the seas, ranging from the open ocean and shallow seagrass beds to coral reefs. They are found in all warm and temperate waters around the world, navigating vast distances between their feeding grounds and nesting sites on beaches.",
+  "query": "What is the natural habitat of a sea turtle?",
+  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: What is the natural habitat of a sea turtle?\n\n<reference text>: a sea turtle lives in the ocean\n\n<reply>: ",
+  "response": "The natural habitat of a sea turtle encompasses oceanic environments. These marine reptiles are adapted to live in the seas, ranging from the open ocean and shallow seagrass beds to coral reefs. They are found in all warm and temperate waters around the world, navigating vast distances between their feeding grounds and nesting sites on beaches."
+}

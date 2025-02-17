@@ -1,9 +1,0 @@
-{
-  "text": "the sun causes water to evaporate more quickly by adding heat",
-  "id": 766,
-  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: the sun causes water to evaporate more quickly by adding heat\n\n<question>: ",
-  "ChatGPT_response_0": "Water tends to evaporate faster on a hot sunny day compared to a cooler, cloudy one because the heat from the sun increases the energy levels of the water molecules. When these molecules receive more energy, they move more rapidly and are more likely to break the bonds holding them in liquid form and transition into a gaseous state, thus speeding up the process of evaporation.",
-  "query": "Why does water tend to evaporate faster on a hot sunny day compared to a cooler, cloudy one?",
-  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: Why does water tend to evaporate faster on a hot sunny day compared to a cooler, cloudy one?\n\n<reference text>: the sun causes water to evaporate more quickly by adding heat\n\n<reply>: ",
-  "response": "Water tends to evaporate faster on a hot sunny day compared to a cooler, cloudy one because the heat from the sun increases the energy levels of the water molecules. When these molecules receive more energy, they move more rapidly and are more likely to break the bonds holding them in liquid form and transition into a gaseous state, thus speeding up the process of evaporation."
-}

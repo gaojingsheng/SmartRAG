@@ -1,0 +1,9 @@
+{
+  "text": "a revolution is when something revolves around something else",
+  "id": 1277,
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: a revolution is when something revolves around something else\n\n<question>: ",
+  "ChatGPT_response_0": "In scientific and astronomical contexts, a revolution refers to the motion of an object circulating around another object along a path over a certain period of time. This term is often used to describe celestial bodies like planets or moons as they orbit around larger bodies, such as stars or planets, respectively.",
+  "query": "What is the definition of a revolution in a scientific or astronomical context?",
+  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: What is the definition of a revolution in a scientific or astronomical context?\n\n<reference text>: a revolution is when something revolves around something else\n\n<reply>: ",
+  "response": "In scientific and astronomical contexts, a revolution refers to the motion of an object circulating around another object along a path over a certain period of time. This term is often used to describe celestial bodies like planets or moons as they orbit around larger bodies, such as stars or planets, respectively."
+}

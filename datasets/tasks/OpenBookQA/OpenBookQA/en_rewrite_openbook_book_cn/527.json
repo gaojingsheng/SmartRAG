@@ -1,9 +1,0 @@
-{
-  "text": "a fish lives in water",
-  "id": 527,
-  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: a fish lives in water\n\n<question>: ",
-  "ChatGPT_response_0": "The natural habitat of a fish is in water. They are aquatic animals and can be found in various water environments, including oceans, rivers, lakes, streams, and ponds.",
-  "query": "What is the natural habitat of a fish?",
-  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: What is the natural habitat of a fish?\n\n<reference text>: a fish lives in water\n\n<reply>: ",
-  "response": "The natural habitat of a fish is in water. They are aquatic animals and can be found in various water environments, including oceans, rivers, lakes, streams, and ponds."
-}

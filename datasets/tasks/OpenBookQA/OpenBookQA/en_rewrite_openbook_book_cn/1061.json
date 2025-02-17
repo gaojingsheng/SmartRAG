@@ -1,9 +1,0 @@
-{
-  "text": "a solar eclipse could only happen during the new moon",
-  "id": 1061,
-  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: a solar eclipse could only happen during the new moon\n\n<question>: ",
-  "ChatGPT_response_0": "A solar eclipse can only occur during the new moon phase.",
-  "query": "What phase must the moon be in for a solar eclipse to occur?",
-  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: What phase must the moon be in for a solar eclipse to occur?\n\n<reference text>: a solar eclipse could only happen during the new moon\n\n<reply>: ",
-  "response": "A solar eclipse can only occur during the new moon phase."
-}

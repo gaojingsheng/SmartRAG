@@ -1,0 +1,65 @@
+tokenizer:
+  model_name: /mnt/workspace/user/gaojingsheng/LLM/retrieval/FinetuneT5/flan-t5-base-warm-up/checkpoint-5000
+  padding_side: left
+  truncation_side: left
+  pad_token_as_eos_token: False
+
+reward_fn:
+  id: exact_match # rouge_l_max
+  args:
+    think: True
+
+datapool:
+  id: popqa
+  args:
+    prompt_prefix: "### Instruction:\nPlease answer the following questions using the shortest possible response. For example, if the question asks 'What is the capital of France?', you can simply reply with '[Answer] Paris'. If you need to retrieval additional relevant knowledge, rewrite the question to a better query, such as '[Query] The capital of France'. \n\n### Input:\n"
+    prompt_suffix: "\n\n### Response:\n" 
+
+    ifdebug: True
+
+env:
+  n_envs: 1 # 10
+  args:
+    max_prompt_length: 512
+    max_episode_length: 50
+    terminate_on_eos: True
+    prompt_truncation_side: "right"
+    context_start_token: 0
+
+alg:
+  id: ppo
+  # model_type: cascausal # Mistral is a cascausal model
+  args: 
+    n_steps: 512 # 256 # 32
+    batch_size: 4 # # 64 # 8 ~ 47G显存， 必须大于1
+    verbose: 1
+    learning_rate: 0.000002
+    n_epochs: 2 # 4 # 2
+    ent_coef: 0.0
+  kl_div:
+    coeff: 0.001
+    target_kl: 0.2
+  policy:
+    id: seq2seq_lm_actor_critic_policy
+    args:
+      model_name: /mnt/workspace/user/gaojingsheng/LLM/retrieval/FinetuneT5/flan-t5-base-warm-up/checkpoint-5000
+      apply_model_parallel: True # False # True
+      # 不并行就OOM,并行就有bug
+      prompt_truncation_side: "right"
+      generation_kwargs:
+        do_sample: True
+        top_k: 50
+
+train_evaluation:
+  eval_batch_size: 16
+  n_iters: 50
+  eval_every: 5 # 10
+  save_every: 5 # 10
+  metrics:
+    - id: exact_match # rouge
+      args:
+        use_single_ref: False
+
+  generation_kwargs:
+    num_beams: 4
+

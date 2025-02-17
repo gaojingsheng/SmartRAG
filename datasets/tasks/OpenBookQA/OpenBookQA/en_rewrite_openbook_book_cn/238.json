@@ -1,9 +1,0 @@
-{
-  "text": "sometimes piles of rock are formed by melting glaciers depositing rocks",
-  "id": 238,
-  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: sometimes piles of rock are formed by melting glaciers depositing rocks\n\n<question>: ",
-  "ChatGPT_response_0": "As glaciers melt, they often create piles of rocks through a process known as deposition. When glaciers move, they transport rocks and sediment frozen within them. As the ice melts, these materials are deposited, creating mounds or piles. These rock piles can vary in size and are found in areas previously covered by glaciers, marking the paths where these massive ice bodies once flowed.",
-  "query": "How are some piles of rock in nature created as glaciers melt?",
-  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: How are some piles of rock in nature created as glaciers melt?\n\n<reference text>: sometimes piles of rock are formed by melting glaciers depositing rocks\n\n<reply>: ",
-  "response": "As glaciers melt, they often create piles of rocks through a process known as deposition. When glaciers move, they transport rocks and sediment frozen within them. As the ice melts, these materials are deposited, creating mounds or piles. These rock piles can vary in size and are found in areas previously covered by glaciers, marking the paths where these massive ice bodies once flowed."
-}

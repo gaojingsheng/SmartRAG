@@ -1,9 +1,0 @@
-{
-  "text": "animals exhale carbon dioxide from their lungs into the air",
-  "id": 1226,
-  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: animals exhale carbon dioxide from their lungs into the air\n\n<question>: ",
-  "ChatGPT_response_0": "Animals release carbon dioxide from their lungs into the atmosphere when they breathe out.",
-  "query": "What substance do animals release from their lungs into the atmosphere when they breathe out?",
-  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: What substance do animals release from their lungs into the atmosphere when they breathe out?\n\n<reference text>: animals exhale carbon dioxide from their lungs into the air\n\n<reply>: ",
-  "response": "Animals release carbon dioxide from their lungs into the atmosphere when they breathe out."
-}

@@ -1,9 +1,0 @@
-{
-  "text": "wildfire is when a forest catches fire",
-  "id": 823,
-  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: wildfire is when a forest catches fire\n\n<question>: ",
-  "ChatGPT_response_0": "The term for the phenomenon where a forest catches fire is called a wildfire.",
-  "query": "What is the term for the phenomenon where a forest catches fire?",
-  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: What is the term for the phenomenon where a forest catches fire?\n\n<reference text>: wildfire is when a forest catches fire\n\n<reply>: ",
-  "response": "The term for the phenomenon where a forest catches fire is called a wildfire."
-}

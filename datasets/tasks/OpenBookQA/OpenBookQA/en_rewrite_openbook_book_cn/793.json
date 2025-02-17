@@ -1,9 +1,0 @@
-{
-  "text": "An example of hibernation is a frog burying itself in mud",
-  "id": 793,
-  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: An example of hibernation is a frog burying itself in mud\n\n<question>: ",
-  "ChatGPT_response_0": "An illustrative behavior of animals undergoing hibernation in cold weather environments includes frogs burying themselves in mud. This action helps them to avoid the freezing temperatures above ground and maintain a stable, albeit very low, metabolic rate throughout the winter period, preserving energy until warmer conditions return.",
-  "query": "What is an illustrative behavior of animals undergoing hibernation in cold weather environments?",
-  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: What is an illustrative behavior of animals undergoing hibernation in cold weather environments?\n\n<reference text>: An example of hibernation is a frog burying itself in mud\n\n<reply>: ",
-  "response": "An illustrative behavior of animals undergoing hibernation in cold weather environments includes frogs burying themselves in mud. This action helps them to avoid the freezing temperatures above ground and maintain a stable, albeit very low, metabolic rate throughout the winter period, preserving energy until warmer conditions return."
-}

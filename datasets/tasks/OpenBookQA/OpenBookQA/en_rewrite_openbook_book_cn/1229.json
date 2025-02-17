@@ -1,9 +1,0 @@
-{
-  "text": "sugar causes food to taste sweet",
-  "id": 1229,
-  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: sugar causes food to taste sweet\n\n<question>: ",
-  "ChatGPT_response_0": "The ingredient responsible for making food taste sweet is sugar.",
-  "query": "What ingredient is responsible for making food taste sweet?",
-  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: What ingredient is responsible for making food taste sweet?\n\n<reference text>: sugar causes food to taste sweet\n\n<reply>: ",
-  "response": "The ingredient responsible for making food taste sweet is sugar."
-}

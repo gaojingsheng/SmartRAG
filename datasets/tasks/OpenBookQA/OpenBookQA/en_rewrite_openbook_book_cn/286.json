@@ -1,9 +1,0 @@
-{
-  "text": "dissolving a substance in water causes the water to taste like that substance",
-  "id": 286,
-  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: dissolving a substance in water causes the water to taste like that substance\n\n<question>: ",
-  "ChatGPT_response_0": "When salt is added to water and dissolves, the solution acquires a salty taste because the water now contains dissolved salt particles. These particles interact with the taste receptors on the tongue, specifically the receptors sensitive to sodium ions, which are components of salt (sodium chloride). As a result, the presence of salt in water changes its taste profile to salty.",
-  "query": "Why does water taste like salt after adding salt to it?",
-  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: Why does water taste like salt after adding salt to it?\n\n<reference text>: dissolving a substance in water causes the water to taste like that substance\n\n<reply>: ",
-  "response": "When salt is added to water and dissolves, the solution acquires a salty taste because the water now contains dissolved salt particles. These particles interact with the taste receptors on the tongue, specifically the receptors sensitive to sodium ions, which are components of salt (sodium chloride). As a result, the presence of salt in water changes its taste profile to salty."
-}

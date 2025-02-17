@@ -1,0 +1,9 @@
+{
+  "text": "a human requires rest to be healthy",
+  "id": 717,
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: a human requires rest to be healthy\n\n<question>: ",
+  "ChatGPT_response_0": "Maintaining human health essentially involves ensuring adequate rest among other factors. Rest is crucial as it allows the body to recover, repair, and rejuvenate itself. ",
+  "query": "What is essential for maintaining human health?",
+  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: What is essential for maintaining human health?\n\n<reference text>: a human requires rest to be healthy\n\n<reply>: ",
+  "response": "Maintaining human health essentially involves ensuring adequate rest among other factors. Rest is crucial as it allows the body to recover, repair, and rejuvenate itself. "
+}

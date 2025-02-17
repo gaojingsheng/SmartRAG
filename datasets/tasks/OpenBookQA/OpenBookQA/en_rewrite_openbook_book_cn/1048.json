@@ -1,9 +1,0 @@
-{
-  "text": "a lever is used for moving heavy objects",
-  "id": 1048,
-  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: a lever is used for moving heavy objects\n\n<question>: ",
-  "ChatGPT_response_0": "The simple machine commonly employed to facilitate the relocation of heavy items by reducing the effort required is a lever.",
-  "query": "What simple machine is commonly employed to facilitate the relocation of heavy items by reducing the effort required?",
-  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: What simple machine is commonly employed to facilitate the relocation of heavy items by reducing the effort required?\n\n<reference text>: a lever is used for moving heavy objects\n\n<reply>: ",
-  "response": "The simple machine commonly employed to facilitate the relocation of heavy items by reducing the effort required is a lever."
-}

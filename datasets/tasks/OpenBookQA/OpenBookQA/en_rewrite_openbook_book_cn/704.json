@@ -1,9 +1,0 @@
-{
-  "text": "lighting a candle causes that candle to burn",
-  "id": 704,
-  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: lighting a candle causes that candle to burn\n\n<question>: ",
-  "ChatGPT_response_0": "When a flame is applied directly to a candle wick, the heat from the flame melts the wax around the wick. This melted wax is then drawn up the wick by capillary action. When this wax vaporizes, it reacts with oxygen in the air to ignite and produce a steady flame. This process allows the candle to continue burning, consuming the wax and wick over time to produce light and heat.",
-  "query": "What is the result of applying a flame directly to a candle wick?",
-  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: What is the result of applying a flame directly to a candle wick?\n\n<reference text>: lighting a candle causes that candle to burn\n\n<reply>: ",
-  "response": "When a flame is applied directly to a candle wick, the heat from the flame melts the wax around the wick. This melted wax is then drawn up the wick by capillary action. When this wax vaporizes, it reacts with oxygen in the air to ignite and produce a steady flame. This process allows the candle to continue burning, consuming the wax and wick over time to produce light and heat."
-}

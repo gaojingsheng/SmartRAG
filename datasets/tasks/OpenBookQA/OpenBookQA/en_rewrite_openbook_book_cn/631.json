@@ -1,9 +1,0 @@
-{
-  "text": "when an electrical circuit is working properly , electrical current runs through the wires in that circuit",
-  "id": 631,
-  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: when an electrical circuit is working properly , electrical current runs through the wires in that circuit\n\n<question>: ",
-  "ChatGPT_response_0": "When an electrical circuit is functioning correctly, the electrical current flows smoothly through the wires within the circuit. This permits the circuit to perform its designated task, whether it's powering a device, lighting a bulb, or running an appliance, without interruption or malfunction.",
-  "query": "What happens to the electrical current when an electrical circuit is functioning correctly?",
-  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: What happens to the electrical current when an electrical circuit is functioning correctly?\n\n<reference text>: when an electrical circuit is working properly , electrical current runs through the wires in that circuit\n\n<reply>: ",
-  "response": "When an electrical circuit is functioning correctly, the electrical current flows smoothly through the wires within the circuit. This permits the circuit to perform its designated task, whether it's powering a device, lighting a bulb, or running an appliance, without interruption or malfunction."
-}

@@ -1,9 +1,0 @@
-{
-  "text": "herbivores only eat plants",
-  "id": 466,
-  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: herbivores only eat plants\n\n<question>: ",
-  "ChatGPT_response_0": "Herbivores exclusively consume plant-based material in their diet. This includes leaves, fruits, stems, flowers, and even bark from trees. They do not eat meat or animal-based products, relying solely on plants to meet their nutritional needs.",
-  "query": "What do herbivores exclusively consume in their diet?",
-  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: What do herbivores exclusively consume in their diet?\n\n<reference text>: herbivores only eat plants\n\n<reply>: ",
-  "response": "Herbivores exclusively consume plant-based material in their diet. This includes leaves, fruits, stems, flowers, and even bark from trees. They do not eat meat or animal-based products, relying solely on plants to meet their nutritional needs."
-}

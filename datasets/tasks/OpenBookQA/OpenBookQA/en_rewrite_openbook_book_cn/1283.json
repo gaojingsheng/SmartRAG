@@ -1,9 +1,0 @@
-{
-  "text": "seed dispersal is when the seeds of a plant are spread from the parent plant to another area",
-  "id": 1283,
-  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: seed dispersal is when the seeds of a plant are spread from the parent plant to another area\n\n<question>: ",
-  "ChatGPT_response_0": "The process when plants distribute their offspring to new locations away from the parent organism is called seed dispersal.",
-  "query": "What is the process called when plants distribute their offspring to new locations away from the parent organism?",
-  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: What is the process called when plants distribute their offspring to new locations away from the parent organism?\n\n<reference text>: seed dispersal is when the seeds of a plant are spread from the parent plant to another area\n\n<reply>: ",
-  "response": "The process when plants distribute their offspring to new locations away from the parent organism is called seed dispersal."
-}

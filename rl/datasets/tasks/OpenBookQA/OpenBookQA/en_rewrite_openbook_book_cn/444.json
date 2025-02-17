@@ -1,0 +1,9 @@
+{
+  "text": "an egg requires warmth to develop",
+  "id": 444,
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: an egg requires warmth to develop\n\n<question>: ",
+  "ChatGPT_response_0": "For an egg to develop properly before it hatches, it is essential that it receives adequate warmth. This warmth ensures that the conditions are optimal for the growth and maturation of the embryo inside the egg.",
+  "query": "What is essential for the development of an egg before it hatches?",
+  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: What is essential for the development of an egg before it hatches?\n\n<reference text>: an egg requires warmth to develop\n\n<reply>: ",
+  "response": "For an egg to develop properly before it hatches, it is essential that it receives adequate warmth. This warmth ensures that the conditions are optimal for the growth and maturation of the embryo inside the egg."
+}

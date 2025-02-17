@@ -1,9 +1,0 @@
-{
-  "text": "skin is used for protecting the body from harmful substances",
-  "id": 448,
-  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: skin is used for protecting the body from harmful substances\n\n<question>: ",
-  "ChatGPT_response_0": "The primary function of the skin in relation to the body's defense against external agents is to serve as a protective barrier. It helps shield the body from various harmful substances, including bacteria, viruses, and chemicals, thereby playing a crucial role in the immune system's first line of defense.",
-  "query": "What is the primary function of skin in relation to the body's defense against external agents?",
-  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: What is the primary function of skin in relation to the body's defense against external agents?\n\n<reference text>: skin is used for protecting the body from harmful substances\n\n<reply>: ",
-  "response": "The primary function of the skin in relation to the body's defense against external agents is to serve as a protective barrier. It helps shield the body from various harmful substances, including bacteria, viruses, and chemicals, thereby playing a crucial role in the immune system's first line of defense."
-}

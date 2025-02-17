@@ -1,9 +1,0 @@
-{
-  "text": "high temperatures can cause an object to combust",
-  "id": 606,
-  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: high temperatures can cause an object to combust\n\n<question>: ",
-  "ChatGPT_response_0": "An object might catch fire without direct contact with flames if it is exposed to high temperatures. This exposure can cause the material to reach its ignition point, the temperature at which it will spontaneously combust or start burning, even without an open flame being present. Factors such as the type of material, its surroundings, and the duration of exposure to high heat can influence this process.",
-  "query": "What might lead to an object catching fire without direct contact with flames?",
-  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: What might lead to an object catching fire without direct contact with flames?\n\n<reference text>: high temperatures can cause an object to combust\n\n<reply>: ",
-  "response": "An object might catch fire without direct contact with flames if it is exposed to high temperatures. This exposure can cause the material to reach its ignition point, the temperature at which it will spontaneously combust or start burning, even without an open flame being present. Factors such as the type of material, its surroundings, and the duration of exposure to high heat can influence this process."
-}

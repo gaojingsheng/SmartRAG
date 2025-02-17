@@ -1,0 +1,9 @@
+{
+  "text": "each season occurs once per year",
+  "id": 878,
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: each season occurs once per year\n\n<question>: ",
+  "ChatGPT_response_0": "Each of the four seasons—spring, summer, autumn (fall), and winter—occurs once within a calendar year, leading to a total of four distinct seasons annually.",
+  "query": "How often does each of the four seasons occur within a calendar year?",
+  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: How often does each of the four seasons occur within a calendar year?\n\n<reference text>: each season occurs once per year\n\n<reply>: ",
+  "response": "Each of the four seasons—spring, summer, autumn (fall), and winter—occurs once within a calendar year, leading to a total of four distinct seasons annually."
+}

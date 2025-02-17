@@ -1,9 +1,0 @@
-{
-  "text": "a source of something supplies that something",
-  "id": 1309,
-  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: a source of something supplies that something\n\n<question>: ",
-  "ChatGPT_response_0": "The function of an entity or system that provides a specific commodity or service is to supply that particular commodity or service to those who need or desire it. This involves producing, managing, and making the commodity or service available to consumers, thereby fulfilling a specific demand within the market or community.",
-  "query": "What is the function of an entity or system that provides a specific commodity or service?",
-  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: What is the function of an entity or system that provides a specific commodity or service?\n\n<reference text>: a source of something supplies that something\n\n<reply>: ",
-  "response": "The function of an entity or system that provides a specific commodity or service is to supply that particular commodity or service to those who need or desire it. This involves producing, managing, and making the commodity or service available to consumers, thereby fulfilling a specific demand within the market or community."
-}

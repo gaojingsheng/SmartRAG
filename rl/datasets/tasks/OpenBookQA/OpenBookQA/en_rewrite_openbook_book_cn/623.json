@@ -1,0 +1,9 @@
+{
+  "text": "a desert environment has low rainfall",
+  "id": 623,
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: a desert environment has low rainfall\n\n<question>: ",
+  "ChatGPT_response_0": "A defining characteristic of a desert environment is that it receives very low amounts of precipitation throughout the year.",
+  "query": "What is a defining characteristic of a desert environment in terms of precipitation?",
+  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: What is a defining characteristic of a desert environment in terms of precipitation?\n\n<reference text>: a desert environment has low rainfall\n\n<reply>: ",
+  "response": "A defining characteristic of a desert environment is that it receives very low amounts of precipitation throughout the year."
+}

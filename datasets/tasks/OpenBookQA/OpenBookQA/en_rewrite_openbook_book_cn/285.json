@@ -1,9 +1,0 @@
-{
-  "text": "An example of using tools is a chimpanzee digging for insects with a stick",
-  "id": 285,
-  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: An example of using tools is a chimpanzee digging for insects with a stick\n\n<question>: ",
-  "ChatGPT_response_0": "In a real-life instance of primates using simple tools for acquiring food, chimpanzees have been observed in their natural habitat using sticks to dig for insects. This behavior illustrates their ability to manipulate objects in their environment to access food sources, showcasing their problem-solving skills and cognitive abilities.",
-  "query": "What is a real-life instance of primates employing simple tools for food acquisition in their natural habitat?",
-  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: What is a real-life instance of primates employing simple tools for food acquisition in their natural habitat?\n\n<reference text>: An example of using tools is a chimpanzee digging for insects with a stick\n\n<reply>: ",
-  "response": "In a real-life instance of primates using simple tools for acquiring food, chimpanzees have been observed in their natural habitat using sticks to dig for insects. This behavior illustrates their ability to manipulate objects in their environment to access food sources, showcasing their problem-solving skills and cognitive abilities."
-}

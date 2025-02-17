@@ -1,0 +1,9 @@
+{
+  "text": "if weather is stormy then there is a greater chance of rain",
+  "id": 1062,
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: if weather is stormy then there is a greater chance of rain\n\n<question>: ",
+  "ChatGPT_response_0": "Stormy weather conditions significantly increase the likelihood of experiencing rainfall.",
+  "query": "What meteorological condition increases the likelihood of experiencing rainfall?",
+  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: What meteorological condition increases the likelihood of experiencing rainfall?\n\n<reference text>: if weather is stormy then there is a greater chance of rain\n\n<reply>: ",
+  "response": "Stormy weather conditions significantly increase the likelihood of experiencing rainfall."
+}

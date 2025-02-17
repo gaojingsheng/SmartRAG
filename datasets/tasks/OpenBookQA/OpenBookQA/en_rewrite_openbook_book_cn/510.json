@@ -1,9 +1,0 @@
-{
-  "text": "an electric car contains an electric motor",
-  "id": 510,
-  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: an electric car contains an electric motor\n\n<question>: ",
-  "ChatGPT_response_0": "An electric vehicle is powered by an electric motor.",
-  "query": "What type of motor is found inside an electric vehicle?",
-  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: What type of motor is found inside an electric vehicle?\n\n<reference text>: an electric car contains an electric motor\n\n<reply>: ",
-  "response": "An electric vehicle is powered by an electric motor."
-}

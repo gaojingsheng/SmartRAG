@@ -1,0 +1,9 @@
+{
+  "text": "if the atmospheric temperature rises then the glaciers will melt",
+  "id": 920,
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: if the atmospheric temperature rises then the glaciers will melt\n\n<question>: ",
+  "ChatGPT_response_0": "An increase in atmospheric temperature leads to the melting of glaciers. This process can result in a reduction in glacier size and volume, impacting freshwater supplies for millions of people, altering natural habitats, and contributing to sea level rise.",
+  "query": "What is the consequence on glaciers if there is an increase in atmospheric temperature?",
+  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: What is the consequence on glaciers if there is an increase in atmospheric temperature?\n\n<reference text>: if the atmospheric temperature rises then the glaciers will melt\n\n<reply>: ",
+  "response": "An increase in atmospheric temperature leads to the melting of glaciers. This process can result in a reduction in glacier size and volume, impacting freshwater supplies for millions of people, altering natural habitats, and contributing to sea level rise."
+}

@@ -1,9 +1,0 @@
-{
-  "text": "a satellite orbits a planet",
-  "id": 222,
-  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: a satellite orbits a planet\n\n<question>: ",
-  "ChatGPT_response_0": "The motion is called \"orbiting.\" When a celestial object travels around a planet following a specific path, it is said to be orbiting the planet.",
-  "query": "What is the motion called when a celestial object travels around a planet in a specific path?",
-  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: What is the motion called when a celestial object travels around a planet in a specific path?\n\n<reference text>: a satellite orbits a planet\n\n<reply>: ",
-  "response": "The motion is called \"orbiting.\" When a celestial object travels around a planet following a specific path, it is said to be orbiting the planet."
-}

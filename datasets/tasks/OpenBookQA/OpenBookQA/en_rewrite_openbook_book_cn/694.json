@@ -1,9 +1,0 @@
-{
-  "text": "eagles eat rabbits",
-  "id": 694,
-  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: eagles eat rabbits\n\n<question>: ",
-  "ChatGPT_response_0": "In ecosystems where rabbits are available, eagles primarily include rabbits in their diet. This indicates that these birds of prey leverage the presence of rabbits as a significant food source, utilizing their hunting skills to catch and consume them for nutrition.",
-  "query": "What is the primary diet of eagles in ecosystems where rabbits are available?",
-  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: What is the primary diet of eagles in ecosystems where rabbits are available?\n\n<reference text>: eagles eat rabbits\n\n<reply>: ",
-  "response": "In ecosystems where rabbits are available, eagles primarily include rabbits in their diet. This indicates that these birds of prey leverage the presence of rabbits as a significant food source, utilizing their hunting skills to catch and consume them for nutrition."
-}

@@ -1,0 +1,9 @@
+{
+  "text": "safety goggles are used for protecting the eyes during experiments",
+  "id": 400,
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: safety goggles are used for protecting the eyes during experiments\n\n<question>: ",
+  "ChatGPT_response_0": "Safety goggles are essential for shielding the eyes while conducting scientific experiments. They provide vital protection against chemical splashes, flying debris, and other potential hazards encountered in laboratory settings.",
+  "query": "What piece of personal protective equipment is essential for shielding the eyes while conducting scientific experiments?",
+  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: What piece of personal protective equipment is essential for shielding the eyes while conducting scientific experiments?\n\n<reference text>: safety goggles are used for protecting the eyes during experiments\n\n<reply>: ",
+  "response": "Safety goggles are essential for shielding the eyes while conducting scientific experiments. They provide vital protection against chemical splashes, flying debris, and other potential hazards encountered in laboratory settings."
+}

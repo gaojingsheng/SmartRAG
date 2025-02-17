@@ -1,9 +1,0 @@
-{
-  "text": "as heat is transferred from something to something else , the temperature of that something will decrease",
-  "id": 82,
-  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: as heat is transferred from something to something else , the temperature of that something will decrease\n\n<question>: ",
-  "ChatGPT_response_0": "When an object transfers heat to another object, its temperature decreases.",
-  "query": "What happens to the temperature of an object when it transfers heat to another object?",
-  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: What happens to the temperature of an object when it transfers heat to another object?\n\n<reference text>: as heat is transferred from something to something else , the temperature of that something will decrease\n\n<reply>: ",
-  "response": "When an object transfers heat to another object, its temperature decreases."
-}

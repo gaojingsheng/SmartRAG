@@ -1,0 +1,9 @@
+{
+  "text": "muscles pull bones to move the bones",
+  "id": 1086,
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: muscles pull bones to move the bones\n\n<question>: ",
+  "ChatGPT_response_0": "In the human body, bones are moved through the action of muscles. For movement to occur, muscles contract and pull on bones, which are connected at joints. This action allows for various types of movements, enabling us to walk, lift, and perform a wide array of physical activities.",
+  "query": "How do bones move in the human body?",
+  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: How do bones move in the human body?\n\n<reference text>: muscles pull bones to move the bones\n\n<reply>: ",
+  "response": "In the human body, bones are moved through the action of muscles. For movement to occur, muscles contract and pull on bones, which are connected at joints. This action allows for various types of movements, enabling us to walk, lift, and perform a wide array of physical activities."
+}

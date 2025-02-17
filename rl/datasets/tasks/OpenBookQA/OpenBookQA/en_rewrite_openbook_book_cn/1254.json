@@ -1,0 +1,9 @@
+{
+  "text": "as distance from an object decreases , the the pull of gravity on that object increases",
+  "id": 1254,
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: as distance from an object decreases , the the pull of gravity on that object increases\n\n<question>: ",
+  "ChatGPT_response_0": "The intensity of gravitational pull increases as an object moves closer to another object. This is because the gravitational force between two objects is inversely proportional to the square of the distance between them. Thus, as the distance decreases, the gravitational pull becomes stronger.",
+  "query": "How does the intensity of gravitational pull change when an object moves closer to another object?",
+  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: How does the intensity of gravitational pull change when an object moves closer to another object?\n\n<reference text>: as distance from an object decreases , the the pull of gravity on that object increases\n\n<reply>: ",
+  "response": "The intensity of gravitational pull increases as an object moves closer to another object. This is because the gravitational force between two objects is inversely proportional to the square of the distance between them. Thus, as the distance decreases, the gravitational pull becomes stronger."
+}

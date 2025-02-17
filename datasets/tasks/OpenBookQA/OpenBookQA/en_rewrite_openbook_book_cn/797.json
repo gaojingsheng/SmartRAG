@@ -1,9 +1,0 @@
-{
-  "text": "breathing is when a lung converts from oxygen in air into oxygen in blood",
-  "id": 797,
-  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: breathing is when a lung converts from oxygen in air into oxygen in blood\n\n<question>: ",
-  "ChatGPT_response_0": "The process where a lung transforms the oxygen we inhale from the air into oxygen that can be utilized by our bloodstream is known as breathing. This essential respiratory activity allows for the exchange of oxygen from the air to the blood, enabling oxygenation of the bloodstream for use by the body's cells.",
-  "query": "What is the process called where a lung transforms the oxygen we inhale from the air into oxygen that can be utilized by our bloodstream?",
-  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: What is the process called where a lung transforms the oxygen we inhale from the air into oxygen that can be utilized by our bloodstream?\n\n<reference text>: breathing is when a lung converts from oxygen in air into oxygen in blood\n\n<reply>: ",
-  "response": "The process where a lung transforms the oxygen we inhale from the air into oxygen that can be utilized by our bloodstream is known as breathing. This essential respiratory activity allows for the exchange of oxygen from the air to the blood, enabling oxygenation of the bloodstream for use by the body's cells."
-}

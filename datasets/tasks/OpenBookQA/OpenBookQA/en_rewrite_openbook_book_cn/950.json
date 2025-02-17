@@ -1,9 +1,0 @@
-{
-  "text": "cycles of day and night occur once per day",
-  "id": 950,
-  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: cycles of day and night occur once per day\n\n<question>: ",
-  "ChatGPT_response_0": "Day and night cycles occur once every 24 hours. This regular alternation is due to the Earth's rotation on its axis, leading to periods of daylight and darkness across different parts of the planet over the course of what we commonly understand as a day.",
-  "query": "How often do day and night cycles occur?",
-  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: How often do day and night cycles occur?\n\n<reference text>: cycles of day and night occur once per day\n\n<reply>: ",
-  "response": "Day and night cycles occur once every 24 hours. This regular alternation is due to the Earth's rotation on its axis, leading to periods of daylight and darkness across different parts of the planet over the course of what we commonly understand as a day."
-}

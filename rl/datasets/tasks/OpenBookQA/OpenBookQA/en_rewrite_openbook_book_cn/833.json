@@ -1,0 +1,9 @@
+{
+  "text": "a hand dryer produces heat",
+  "id": 833,
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: a hand dryer produces heat\n\n<question>: ",
+  "ChatGPT_response_0": "A hand dryer emits heat to facilitate the drying process.",
+  "query": "What does a hand dryer emit to facilitate the drying process?",
+  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: What does a hand dryer emit to facilitate the drying process?\n\n<reference text>: a hand dryer produces heat\n\n<reply>: ",
+  "response": "A hand dryer emits heat to facilitate the drying process."
+}

@@ -1,9 +1,0 @@
-{
-  "text": "seconds are used to measure time",
-  "id": 861,
-  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: seconds are used to measure time\n\n<question>: ",
-  "ChatGPT_response_0": "The unit commonly utilized for quantifying the duration of brief time intervals is seconds.",
-  "query": "What unit is commonly utilized for quantifying the duration of brief time intervals?",
-  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: What unit is commonly utilized for quantifying the duration of brief time intervals?\n\n<reference text>: seconds are used to measure time\n\n<reply>: ",
-  "response": "The unit commonly utilized for quantifying the duration of brief time intervals is seconds."
-}

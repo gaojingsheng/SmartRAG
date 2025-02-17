@@ -1,9 +1,0 @@
-{
-  "text": "digestion is when an organism takes in nutrients from food into itself by eating",
-  "id": 294,
-  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: digestion is when an organism takes in nutrients from food into itself by eating\n\n<question>: ",
-  "ChatGPT_response_0": "The process where an organism absorbs nutrients into its body by consuming food is called digestion.",
-  "query": "What is the process called where an organism absorbs nutrients into its body by consuming food?",
-  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: What is the process called where an organism absorbs nutrients into its body by consuming food?\n\n<reference text>: digestion is when an organism takes in nutrients from food into itself by eating\n\n<reply>: ",
-  "response": "The process where an organism absorbs nutrients into its body by consuming food is called digestion."
-}

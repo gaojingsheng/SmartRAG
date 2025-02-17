@@ -1,9 +1,0 @@
-{
-  "text": "some raccoons live in hollow logs",
-  "id": 1221,
-  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: some raccoons live in hollow logs\n\n<question>: ",
-  "ChatGPT_response_0": "Raccoons can often be found making their homes in the wild within hollow logs. These natural cavities provide a secure and sheltered environment for them to reside, sleep, and raise their offspring.",
-  "query": "Where can some raccoons be found making their homes in the wild?",
-  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: Where can some raccoons be found making their homes in the wild?\n\n<reference text>: some raccoons live in hollow logs\n\n<reply>: ",
-  "response": "Raccoons can often be found making their homes in the wild within hollow logs. These natural cavities provide a secure and sheltered environment for them to reside, sleep, and raise their offspring."
-}

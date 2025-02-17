@@ -1,9 +1,0 @@
-{
-  "text": "grey clouds appear before precipitation",
-  "id": 1105,
-  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: grey clouds appear before precipitation\n\n<question>: ",
-  "ChatGPT_response_0": "The atmospheric condition that commonly precedes rainfall or snowfall is the appearance of grey clouds. These clouds form when the air is saturated with water vapor, which then condenses into tiny droplets, creating the clouds we see. The grey color indicates that the clouds are dense and filled with moisture, suggesting that precipitation, such as rain or snow, is likely to occur soon.",
-  "query": "What atmospheric condition commonly precedes rainfall or snowfall?",
-  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: What atmospheric condition commonly precedes rainfall or snowfall?\n\n<reference text>: grey clouds appear before precipitation\n\n<reply>: ",
-  "response": "The atmospheric condition that commonly precedes rainfall or snowfall is the appearance of grey clouds. These clouds form when the air is saturated with water vapor, which then condenses into tiny droplets, creating the clouds we see. The grey color indicates that the clouds are dense and filled with moisture, suggesting that precipitation, such as rain or snow, is likely to occur soon."
-}

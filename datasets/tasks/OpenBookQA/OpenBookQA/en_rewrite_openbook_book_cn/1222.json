@@ -1,9 +1,0 @@
-{
-  "text": "storms cause bodies of water to increase amount of water they contain",
-  "id": 1222,
-  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: storms cause bodies of water to increase amount of water they contain\n\n<question>: ",
-  "ChatGPT_response_0": "Natural events leading to the increase in water levels of lakes, rivers, and other bodies of water primarily include storms. Storms bring heavy rainfall and can result in the significant inflow of water into these bodies, thereby elevating their water levels.",
-  "query": "What natural events lead to the increase in water levels of lakes, rivers, and other bodies of water?",
-  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: What natural events lead to the increase in water levels of lakes, rivers, and other bodies of water?\n\n<reference text>: storms cause bodies of water to increase amount of water they contain\n\n<reply>: ",
-  "response": "Natural events leading to the increase in water levels of lakes, rivers, and other bodies of water primarily include storms. Storms bring heavy rainfall and can result in the significant inflow of water into these bodies, thereby elevating their water levels."
-}

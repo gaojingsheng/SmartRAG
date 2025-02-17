@@ -1,0 +1,9 @@
+{
+  "text": "adaptation is when an organism develops a trait over time for survival",
+  "id": 420,
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: adaptation is when an organism develops a trait over time for survival\n\n<question>: ",
+  "ChatGPT_response_0": "The process is called adaptation. This involves an organism developing a new characteristic over time to enhance its survival chances in its environment.",
+  "query": "What is the process called when an organism gradually develops a new characteristic to increase its chances of survival over time?",
+  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: What is the process called when an organism gradually develops a new characteristic to increase its chances of survival over time?\n\n<reference text>: adaptation is when an organism develops a trait over time for survival\n\n<reply>: ",
+  "response": "The process is called adaptation. This involves an organism developing a new characteristic over time to enhance its survival chances in its environment."
+}

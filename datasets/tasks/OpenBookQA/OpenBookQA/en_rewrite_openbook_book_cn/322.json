@@ -1,9 +1,0 @@
-{
-  "text": "food is a source of energy for animals",
-  "id": 322,
-  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: food is a source of energy for animals\n\n<question>: ",
-  "ChatGPT_response_0": "Animals are capable of performing various activities such as moving and growing due to the energy they derive from food. The process of digesting food allows animals to convert the nutrients into energy, which then fuels their bodily functions and supports physical actions and growth.",
-  "query": "What enables animals to perform various activities such as moving and growing?",
-  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: What enables animals to perform various activities such as moving and growing?\n\n<reference text>: food is a source of energy for animals\n\n<reply>: ",
-  "response": "Animals are capable of performing various activities such as moving and growing due to the energy they derive from food. The process of digesting food allows animals to convert the nutrients into energy, which then fuels their bodily functions and supports physical actions and growth."
-}

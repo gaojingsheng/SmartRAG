@@ -1,9 +1,0 @@
-{
-  "text": "clouds produce rain",
-  "id": 456,
-  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: clouds produce rain\n\n<question>: ",
-  "ChatGPT_response_0": "Rain is formed in the atmosphere through a process involving clouds. Initially, water vapor in the air condenses into tiny droplets around microscopic particles, such as dust or sea salt. These droplets coalesce and grow larger within clouds. When they become too heavy to be suspended by air currents, they fall to the Earth's surface as rain. This precipitation process is influenced by various atmospheric conditions, including temperature, humidity, and air currents.",
-  "query": "How is rain formed in the atmosphere?",
-  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: How is rain formed in the atmosphere?\n\n<reference text>: clouds produce rain\n\n<reply>: ",
-  "response": "Rain is formed in the atmosphere through a process involving clouds. Initially, water vapor in the air condenses into tiny droplets around microscopic particles, such as dust or sea salt. These droplets coalesce and grow larger within clouds. When they become too heavy to be suspended by air currents, they fall to the Earth's surface as rain. This precipitation process is influenced by various atmospheric conditions, including temperature, humidity, and air currents."
-}

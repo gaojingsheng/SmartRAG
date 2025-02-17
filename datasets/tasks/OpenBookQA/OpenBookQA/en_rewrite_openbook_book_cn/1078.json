@@ -1,9 +1,0 @@
-{
-  "text": "a reptile is cold-blooded",
-  "id": 1078,
-  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: a reptile is cold-blooded\n\n<question>: ",
-  "ChatGPT_response_0": "Reptiles have a cold-blooded (ectothermic) system of blood regulation. This means they rely on external sources of temperature to regulate their body heat. Unlike warm-blooded animals that generate their own heat internally and maintain a constant body temperature regardless of the environment, reptiles must sunbathe to warm up and seek shade or go into water to cool down. Their metabolism and activity levels are directly influenced by the external temperature.",
-  "query": "What type of blood regulation system does a reptile have?",
-  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: What type of blood regulation system does a reptile have?\n\n<reference text>: a reptile is cold-blooded\n\n<reply>: ",
-  "response": "Reptiles have a cold-blooded (ectothermic) system of blood regulation. This means they rely on external sources of temperature to regulate their body heat. Unlike warm-blooded animals that generate their own heat internally and maintain a constant body temperature regardless of the environment, reptiles must sunbathe to warm up and seek shade or go into water to cool down. Their metabolism and activity levels are directly influenced by the external temperature."
-}

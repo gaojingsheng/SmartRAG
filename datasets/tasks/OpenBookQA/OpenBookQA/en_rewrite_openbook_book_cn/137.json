@@ -1,9 +1,0 @@
-{
-  "text": "detailed observation of celestial objects requires a telescope",
-  "id": 137,
-  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: detailed observation of celestial objects requires a telescope\n\n<question>: ",
-  "ChatGPT_response_0": "To perform a detailed observation of celestial objects, a telescope is required. This instrument allows for the magnification and examination of objects in the night sky far beyond what is possible with the naked eye.",
-  "query": "What is required to perform a detailed observation of celestial objects?",
-  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: What is required to perform a detailed observation of celestial objects?\n\n<reference text>: detailed observation of celestial objects requires a telescope\n\n<reply>: ",
-  "response": "To perform a detailed observation of celestial objects, a telescope is required. This instrument allows for the magnification and examination of objects in the night sky far beyond what is possible with the naked eye."
-}

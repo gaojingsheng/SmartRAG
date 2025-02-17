@@ -1,9 +1,0 @@
-{
-  "text": "the length of the hair of an animal is an acquired characteristic",
-  "id": 1091,
-  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: the length of the hair of an animal is an acquired characteristic\n\n<question>: ",
-  "ChatGPT_response_0": "An example of a characteristic in animals that is not inherited but developed after birth is the length of an animal's hair. This trait can vary greatly depending on several factors, including environment, nutrition, and grooming habits, rather than being strictly determined by genetic inheritance.",
-  "query": "What is an example of a characteristic in animals that is not inherited but developed after birth?",
-  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: What is an example of a characteristic in animals that is not inherited but developed after birth?\n\n<reference text>: the length of the hair of an animal is an acquired characteristic\n\n<reply>: ",
-  "response": "An example of a characteristic in animals that is not inherited but developed after birth is the length of an animal's hair. This trait can vary greatly depending on several factors, including environment, nutrition, and grooming habits, rather than being strictly determined by genetic inheritance."
-}

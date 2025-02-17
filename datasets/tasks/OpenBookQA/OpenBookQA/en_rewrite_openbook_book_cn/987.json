@@ -1,9 +1,0 @@
-{
-  "text": "moving changes stored energy into motion and heat",
-  "id": 987,
-  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: moving changes stored energy into motion and heat\n\n<question>: ",
-  "ChatGPT_response_0": "When an object is set into motion, it primarily produces kinetic energy, which is the energy of motion. Additionally, some of the energy may also transform into thermal energy, commonly referred to as heat, due to friction and air resistance.",
-  "query": "What are the forms of energy produced when an object is set into motion?",
-  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: What are the forms of energy produced when an object is set into motion?\n\n<reference text>: moving changes stored energy into motion and heat\n\n<reply>: ",
-  "response": "When an object is set into motion, it primarily produces kinetic energy, which is the energy of motion. Additionally, some of the energy may also transform into thermal energy, commonly referred to as heat, due to friction and air resistance."
-}

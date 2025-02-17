@@ -1,9 +1,0 @@
-{
-  "text": "flood plains are located near rivers",
-  "id": 678,
-  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: flood plains are located near rivers\n\n<question>: ",
-  "ChatGPT_response_0": "Flood plains are typically found adjacent to rivers where the ground slopes gently away from the river channel. This geographic feature forms as a result of the natural overflow of rivers during periods of high water, which deposits sediments over time to create a flat, fertile area.",
-  "query": "<question>: Where are flood plains typically found in relation to bodies of water?",
-  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: <question>: Where are flood plains typically found in relation to bodies of water?\n\n<reference text>: flood plains are located near rivers\n\n<reply>: ",
-  "response": "Flood plains are typically found adjacent to rivers where the ground slopes gently away from the river channel. This geographic feature forms as a result of the natural overflow of rivers during periods of high water, which deposits sediments over time to create a flat, fertile area."
-}

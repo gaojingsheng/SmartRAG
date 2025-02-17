@@ -1,9 +1,0 @@
-{
-  "text": "preparing for a storm requires predicting the occurrence of that storm",
-  "id": 572,
-  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: preparing for a storm requires predicting the occurrence of that storm\n\n<question>: ",
-  "ChatGPT_response_0": "A crucial first step in getting ready for an incoming storm is to accurately predict its occurrence. This involves monitoring weather forecasts and alerts from reliable sources. By staying informed about the storm's trajectory, intensity, and expected impacts, you can make informed decisions on how to prepare effectively.",
-  "query": "What is a crucial first step in getting ready for an incoming storm?",
-  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: What is a crucial first step in getting ready for an incoming storm?\n\n<reference text>: preparing for a storm requires predicting the occurrence of that storm\n\n<reply>: ",
-  "response": "A crucial first step in getting ready for an incoming storm is to accurately predict its occurrence. This involves monitoring weather forecasts and alerts from reliable sources. By staying informed about the storm's trajectory, intensity, and expected impacts, you can make informed decisions on how to prepare effectively."
-}

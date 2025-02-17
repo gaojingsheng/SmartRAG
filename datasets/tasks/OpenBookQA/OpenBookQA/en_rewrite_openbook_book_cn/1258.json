@@ -1,9 +1,0 @@
-{
-  "text": "down feathers are a thermal energy insulator",
-  "id": 1258,
-  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: down feathers are a thermal energy insulator\n\n<question>: ",
-  "ChatGPT_response_0": "Down feathers are used in winter jackets and bedding for their superior ability to retain warmth. This material is highly prized for its effectiveness as a thermal insulator, providing excellent heat retention while remaining lightweight and compressible, making it an ideal choice for cold-weather gear and cozy bedding.",
-  "query": "What type of material is used in winter jackets and bedding for its ability to retain warmth?",
-  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: What type of material is used in winter jackets and bedding for its ability to retain warmth?\n\n<reference text>: down feathers are a thermal energy insulator\n\n<reply>: ",
-  "response": "Down feathers are used in winter jackets and bedding for their superior ability to retain warmth. This material is highly prized for its effectiveness as a thermal insulator, providing excellent heat retention while remaining lightweight and compressible, making it an ideal choice for cold-weather gear and cozy bedding."
-}

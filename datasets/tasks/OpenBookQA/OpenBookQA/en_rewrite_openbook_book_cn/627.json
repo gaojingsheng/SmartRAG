@@ -1,9 +1,0 @@
-{
-  "text": "a paper clip is often made of ferromagnetic metals",
-  "id": 627,
-  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: a paper clip is often made of ferromagnetic metals\n\n<question>: ",
-  "ChatGPT_response_0": "Paper clips are typically made of ferromagnetic metals. These metals are characterized by their ability to be attracted to magnets, which makes paper clips suitable for magnetic attachments. This property is crucial for the functionality of paper clips in various applications, beyond just holding papers together.",
-  "query": "What type of metals are typically used to manufacture paper clips, making them suitable for magnetic attachments?",
-  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: What type of metals are typically used to manufacture paper clips, making them suitable for magnetic attachments?\n\n<reference text>: a paper clip is often made of ferromagnetic metals\n\n<reply>: ",
-  "response": "Paper clips are typically made of ferromagnetic metals. These metals are characterized by their ability to be attracted to magnets, which makes paper clips suitable for magnetic attachments. This property is crucial for the functionality of paper clips in various applications, beyond just holding papers together."
-}

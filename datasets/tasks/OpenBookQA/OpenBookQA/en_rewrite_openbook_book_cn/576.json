@@ -1,9 +1,0 @@
-{
-  "text": "climate is the usual kind of weather in a location",
-  "id": 576,
-  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: climate is the usual kind of weather in a location\n\n<question>: ",
-  "ChatGPT_response_0": "The term used to describe the typical weather conditions observed in a particular area over a long period of time is \"climate.\"",
-  "query": "What term is used to describe the typical weather conditions observed in a particular area over a long period of time?",
-  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: What term is used to describe the typical weather conditions observed in a particular area over a long period of time?\n\n<reference text>: climate is the usual kind of weather in a location\n\n<reply>: ",
-  "response": "The term used to describe the typical weather conditions observed in a particular area over a long period of time is \"climate.\""
-}

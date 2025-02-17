@@ -1,9 +1,0 @@
-{
-  "text": "Earth is made of rock",
-  "id": 725,
-  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: Earth is made of rock\n\n<question>: ",
-  "ChatGPT_response_0": "Earth is primarily composed of rock, including both the solid ground we stand on and the deeper, denser materials that make up its interior. This composition forms the various geological layers of the Earth, including the crust (both continental and oceanic), the mantle, and the core, which is further divided into the solid inner core and the liquid outer core. The rocks that constitute Earth vary widely in composition and state, due to the planet's diverse geologic and tectonic processes.",
-  "query": "What is Earth primarily composed of?",
-  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: What is Earth primarily composed of?\n\n<reference text>: Earth is made of rock\n\n<reply>: ",
-  "response": "Earth is primarily composed of rock, including both the solid ground we stand on and the deeper, denser materials that make up its interior. This composition forms the various geological layers of the Earth, including the crust (both continental and oceanic), the mantle, and the core, which is further divided into the solid inner core and the liquid outer core. The rocks that constitute Earth vary widely in composition and state, due to the planet's diverse geologic and tectonic processes."
-}

@@ -1,9 +1,0 @@
-{
-  "text": "a pumpkin contains seeds",
-  "id": 829,
-  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: a pumpkin contains seeds\n\n<question>: ",
-  "ChatGPT_response_0": "When you cut open a pumpkin for carving, you'll find seeds inside. These seeds are typically surrounded by stringy, fibrous material which is part of the pumpkin's inner flesh.",
-  "query": "What do you find inside a pumpkin when you cut it open for carving?",
-  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: What do you find inside a pumpkin when you cut it open for carving?\n\n<reference text>: a pumpkin contains seeds\n\n<reply>: ",
-  "response": "When you cut open a pumpkin for carving, you'll find seeds inside. These seeds are typically surrounded by stringy, fibrous material which is part of the pumpkin's inner flesh."
-}

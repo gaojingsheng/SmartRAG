@@ -1,0 +1,464 @@
+[
+    {
+        "question": "Who is the author of Regeneration?",
+        "answer": [
+            "H. Rider Haggard"
+        ],
+        "retrieval": false
+    },
+    {
+        "question": "When was the first season of the American version of Dancing with the stars?",
+        "answer": [
+            "June 1 - July 6, 2005"
+        ],
+        "retrieval": true
+    },
+    {
+        "question": "What teams played in the first NHL hockey game ever?",
+        "answer": [
+            "Montreal Canadiens and Ottawa Senators"
+        ],
+        "retrieval": false
+    },
+    {
+        "question": "The repetition of initial consonant sounds is the definition of which type of literary device?",
+        "answer": [
+            "Alliteration"
+        ],
+        "retrieval": false
+    },
+    {
+        "question": "Who was the director of Temple Tower?",
+        "answer": [
+            "Donald Gallaher"
+        ],
+        "retrieval": true
+    },
+    {
+        "question": "What genre is Halloween?",
+        "answer": [
+            "heavy metal"
+        ],
+        "retrieval": false
+    },
+    {
+        "question": "Bundle of Joy starred the actor who was first married to which actress?",
+        "answer": [
+            "D"
+        ],
+        "retrieval": true
+    },
+    {
+        "question": "Who does michael end up with in the office?",
+        "answer": [
+            "Holly Flax"
+        ],
+        "retrieval": true
+    },
+    {
+        "question": "Who is the father of Zhengde Emperor?",
+        "answer": [
+            "Hongzhi Emperor"
+        ],
+        "retrieval": false
+    },
+    {
+        "question": "What sport does Sandar IL play?",
+        "answer": [
+            "association football"
+        ],
+        "retrieval": false
+    },
+    {
+        "question": "Who directed actress Laura Slade Wiggins in a 2017 psychological horror film?",
+        "answer": [
+            "F"
+        ],
+        "retrieval": true
+    },
+    {
+        "question": "Who is the author of Those Who Hunt the Night?",
+        "answer": [
+            "Barbara Hambly"
+        ],
+        "retrieval": true
+    },
+    {
+        "question": "Boneshaker was removed to make space for what coaster that has been open since 2005?",
+        "answer": [
+            "R"
+        ],
+        "retrieval": true
+    },
+    {
+        "question": "What is the legal age of marriage, without parental consent or other authorization, in Nebraska?",
+        "answer": [
+            "19"
+        ],
+        "retrieval": false
+    },
+    {
+        "question": "When was season 2 of The Crown released?",
+        "answer": [
+            "December 8, 2017"
+        ],
+        "retrieval": false
+    },
+    {
+        "question": "Where did the Christian fish symbol originate?",
+        "answer": [
+            "adopted by early Christians as a secret symbol"
+        ],
+        "retrieval": true
+    },
+    {
+        "question": "What is the legal age for smoking tobacco in ontario?",
+        "answer": [
+            "None"
+        ],
+        "retrieval": true
+    },
+    {
+        "question": "Halfdan Ragnarsson was a commander of a coalition of Norse warriors, originating from where?",
+        "answer": [
+            "D"
+        ],
+        "retrieval": true
+    },
+    {
+        "question": "Which top-selling luxury automobile was the body of Robert Donati found in?",
+        "answer": [
+            "C"
+        ],
+        "retrieval": false
+    },
+    {
+        "question": "Who replaced the original lead singer of the doobie brothers?",
+        "answer": [
+            "Michael McDonald"
+        ],
+        "retrieval": false
+    },
+    {
+        "question": "Who was the composer of To Die For?",
+        "answer": [
+            "Danny Elfman"
+        ],
+        "retrieval": false
+    },
+    {
+        "question": "Who was the 2nd Universal Champion in WWE?",
+        "answer": [
+            "Kevin Owens"
+        ],
+        "retrieval": true
+    },
+    {
+        "question": "Who plays liesl in the 2015 sound of music television special?",
+        "answer": [
+            "Evelyn Hoskins"
+        ],
+        "retrieval": true
+    },
+    {
+        "question": "In which state did the serial killer played by Dennis Rader, the BTK Killer, carry out his crimes?",
+        "answer": [
+            "K"
+        ],
+        "retrieval": true
+    },
+    {
+        "question": "What sport does Guo Ruilong play?",
+        "answer": [
+            "association football"
+        ],
+        "retrieval": false
+    },
+    {
+        "question": "What is \u017darko Petan's occupation?",
+        "answer": [
+            "film director"
+        ],
+        "retrieval": false
+    },
+    {
+        "question": "What is the offical language of the canton that is home to the Arulmiku Sivan Temple?",
+        "answer": [
+            "G"
+        ],
+        "retrieval": false
+    },
+    {
+        "question": "Who is the author of MW?",
+        "answer": [
+            "Osamu Tezuka"
+        ],
+        "retrieval": true
+    },
+    {
+        "question": "From which country is the director of the film The Devil's Double ?",
+        "answer": [
+            "N"
+        ],
+        "retrieval": true
+    },
+    {
+        "question": "He phrase survival of the fittest was coined by?",
+        "answer": [
+            "Herbert Spencer"
+        ],
+        "retrieval": false
+    },
+    {
+        "question": "What type of profession does Zora Neale Hurston and W\u0142adys\u0142aw Reymont have in common?",
+        "answer": [
+            "n"
+        ],
+        "retrieval": false
+    },
+    {
+        "question": "How many cars fit on the Bainbridge Island ferries, Kaleetan and Elwha?",
+        "answer": [
+            "160"
+        ],
+        "retrieval": true
+    },
+    {
+        "question": "What country does the region that is native to the genus coffea in the Indian Ocean belong to?",
+        "answer": [
+            "F"
+        ],
+        "retrieval": false
+    },
+    {
+        "question": "Who was the screenwriter for The Right Way?",
+        "answer": [
+            "Mark Penney"
+        ],
+        "retrieval": true
+    },
+    {
+        "question": "What sort of art did Herbert Abrams complete using the Chief of Staff of the United States Army from 1968 to 1972 as a subjecy?",
+        "answer": [
+            "p"
+        ],
+        "retrieval": true
+    },
+    {
+        "question": "British Hong Kong was under British Crown rule from 1841-1997. From 1856-1860 the British Empire was against the Qing Dynasty of China with what other Empire?",
+        "answer": [
+            "F"
+        ],
+        "retrieval": true
+    },
+    {
+        "question": "What is the name of the City that Maria Limanskaya stationed at during the Brandenburg Gate?",
+        "answer": [
+            "B"
+        ],
+        "retrieval": true
+    },
+    {
+        "question": "In what country is Story?",
+        "answer": [
+            "United States of America"
+        ],
+        "retrieval": false
+    },
+    {
+        "question": "Who was the producer of Back to Black?",
+        "answer": [
+            "Mark Ronson"
+        ],
+        "retrieval": false
+    },
+    {
+        "question": "Who sings the 1969 song where do you go to my lovely?",
+        "answer": [
+            "Peter Sarstedt"
+        ],
+        "retrieval": false
+    },
+    {
+        "question": "What role playing game set in Japan was designed by the co-author of Shadowrun?",
+        "answer": [
+            "B"
+        ],
+        "retrieval": true
+    },
+    {
+        "question": "Who is the author of Palmetto Leaves?",
+        "answer": [
+            "Harriet Beecher Stowe"
+        ],
+        "retrieval": false
+    },
+    {
+        "question": "Which star of the British television crime drama series was born on 31 July 1971?",
+        "answer": [
+            "E"
+        ],
+        "retrieval": false
+    },
+    {
+        "question": "Where does pati from pati's mexican table live when she worked for the Inter-American Dialogue?",
+        "answer": [
+            "Washington, DC"
+        ],
+        "retrieval": true
+    },
+    {
+        "question": "The author of \"-And He Built a Crooker House-\" is known by what nickname?",
+        "answer": [
+            "d"
+        ],
+        "retrieval": true
+    },
+    {
+        "question": "Who was the screenwriter for Hera Pheri?",
+        "answer": [
+            "Neeraj Vora"
+        ],
+        "retrieval": true
+    },
+    {
+        "question": "Who is the song that won song of the year at oscars in 2015?",
+        "answer": [
+            "\"Writing's on the Wall\""
+        ],
+        "retrieval": false
+    },
+    {
+        "question": "Where is the place that Once Upon A Time films to serve as the show's fictional town of Storybrooke?",
+        "answer": [
+            "Richmond"
+        ],
+        "retrieval": false
+    },
+    {
+        "question": "What is the name of the character who has the burned face on game of thrones?",
+        "answer": [
+            "Sandor Clegane"
+        ],
+        "retrieval": true
+    },
+    {
+        "question": "Are Tea Moderna and Kotiliesi both magazines for housewives?",
+        "answer": [
+            "y"
+        ],
+        "retrieval": false
+    },
+    {
+        "question": "Who are the actors that have played james bond in 1967?",
+        "answer": [
+            "James David Graham Niven"
+        ],
+        "retrieval": true
+    },
+    {
+        "question": "Who plays Alea in the movie Thank you for your service?",
+        "answer": [
+            "Keisha Castle-Hughes"
+        ],
+        "retrieval": true
+    },
+    {
+        "question": "Who played ron swanson on parks and recreation?",
+        "answer": [
+            "Nick Offerman"
+        ],
+        "retrieval": true
+    },
+    {
+        "question": "What is the home stadium for  Llu\u00eds Elcacho Roda's team?",
+        "answer": [
+            "E"
+        ],
+        "retrieval": false
+    },
+    {
+        "question": "WHo is an American heiress to the fortune of Wal-Mart Stores, and the daughter of at one point the richest American and the eleventh-richest woman in the world?",
+        "answer": [
+            "A"
+        ],
+        "retrieval": false
+    },
+    {
+        "question": "Who played nathan on young and the restless from 1984-92?",
+        "answer": [
+            "Purdee"
+        ],
+        "retrieval": false
+    },
+    {
+        "question": "What large mass causes the tide to come in and out?",
+        "answer": [
+            "the moon"
+        ],
+        "retrieval": true
+    },
+    {
+        "question": "Who was the screenwriter for Pilot?",
+        "answer": [
+            "David Greenwalt"
+        ],
+        "retrieval": true
+    },
+    {
+        "question": "What genre is Live in London?",
+        "answer": [
+            "country music"
+        ],
+        "retrieval": true
+    },
+    {
+        "question": "When is Season 12 of Criminal Minds coming out?",
+        "answer": [
+            "September 28, 2016"
+        ],
+        "retrieval": false
+    },
+    {
+        "question": "How many time have hampshire won the county championship?",
+        "answer": [
+            "2"
+        ],
+        "retrieval": false
+    },
+    {
+        "question": "Where does allura red AC dye in food come from?",
+        "answer": [
+            "synthetic"
+        ],
+        "retrieval": false
+    },
+    {
+        "question": "Who was the director of the 2013 English-language German 3D computer-animated motion capture action-adventure film in which the actress, known for starring as Kristina Cassadine on the soap opera \"General Hospital\", voiced a role?",
+        "answer": [
+            "R"
+        ],
+        "retrieval": false
+    },
+    {
+        "question": "Svengali is a American pre-Code supernatural drama/horror film, released in which year, produced and distributed by Warner Bros, it stars John Barrymore, he was an American actor on stage, screen and radio, and a member of the Drew and Barrymore theatrical families?",
+        "answer": [
+            "1"
+        ],
+        "retrieval": true
+    },
+    {
+        "question": "What genre is S\u00fcpercan?",
+        "answer": [
+            "action-adventure game"
+        ],
+        "retrieval": false
+    },
+    {
+        "question": "Which has more species, Geum or Angraecum?",
+        "answer": [
+            "A"
+        ],
+        "retrieval": false
+    }
+]

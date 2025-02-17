@@ -1,9 +1,0 @@
-{
-  "text": "burning wood is used to produce heat",
-  "id": 477,
-  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: burning wood is used to produce heat\n\n<question>: ",
-  "ChatGPT_response_0": "The primary method of generating heat in traditional fireplaces and wood stoves is through the combustion of wood. When wood is burned, it reacts with oxygen in the air, releasing heat, light, and combustion products such as carbon dioxide and water vapor. This process efficiently converts the stored chemical energy in the wood into heat, which can then be used to warm a space.",
-  "query": "What is the primary method of generating heat in traditional fireplaces and wood stoves?",
-  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: What is the primary method of generating heat in traditional fireplaces and wood stoves?\n\n<reference text>: burning wood is used to produce heat\n\n<reply>: ",
-  "response": "The primary method of generating heat in traditional fireplaces and wood stoves is through the combustion of wood. When wood is burned, it reacts with oxygen in the air, releasing heat, light, and combustion products such as carbon dioxide and water vapor. This process efficiently converts the stored chemical energy in the wood into heat, which can then be used to warm a space."
-}

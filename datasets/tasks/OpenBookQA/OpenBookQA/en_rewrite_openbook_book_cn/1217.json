@@ -1,9 +1,0 @@
-{
-  "text": "an egg requires warmth to develop",
-  "id": 1217,
-  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: an egg requires warmth to develop\n\n<question>: ",
-  "ChatGPT_response_0": "For an egg to develop properly during its incubation process, it is essential to ensure that it is kept warm. Warmth is a critical factor that stimulates the development of the embryo inside the egg, enabling it to grow and eventually hatch. Maintaining a consistent and appropriate temperature throughout the incubation period is key to supporting the egg's successful development.",
-  "query": "What is necessary for an egg to develop properly in its incubation process?",
-  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: What is necessary for an egg to develop properly in its incubation process?\n\n<reference text>: an egg requires warmth to develop\n\n<reply>: ",
-  "response": "For an egg to develop properly during its incubation process, it is essential to ensure that it is kept warm. Warmth is a critical factor that stimulates the development of the embryo inside the egg, enabling it to grow and eventually hatch. Maintaining a consistent and appropriate temperature throughout the incubation period is key to supporting the egg's successful development."
-}

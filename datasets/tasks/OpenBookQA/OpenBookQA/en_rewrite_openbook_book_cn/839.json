@@ -1,9 +1,0 @@
-{
-  "text": "when electricity flows to a light bulb , the light bulb will turn on",
-  "id": 839,
-  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: when electricity flows to a light bulb , the light bulb will turn on\n\n<question>: ",
-  "ChatGPT_response_0": "When electricity is supplied to a light bulb, it will turn on.",
-  "query": "What happens to a light bulb when electricity is supplied to it?",
-  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: What happens to a light bulb when electricity is supplied to it?\n\n<reference text>: when electricity flows to a light bulb , the light bulb will turn on\n\n<reply>: ",
-  "response": "When electricity is supplied to a light bulb, it will turn on."
-}

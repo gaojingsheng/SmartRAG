@@ -1,0 +1,9 @@
+{
+  "text": "In the cellular respiration process carbon dioxide is a waste product",
+  "id": 882,
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: In the cellular respiration process carbon dioxide is a waste product\n\n<question>: ",
+  "ChatGPT_response_0": "During the process of cellular respiration, carbon dioxide is produced as a waste product.",
+  "query": "What is produced as a waste product during the process of cellular respiration?",
+  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: What is produced as a waste product during the process of cellular respiration?\n\n<reference text>: In the cellular respiration process carbon dioxide is a waste product\n\n<reply>: ",
+  "response": "During the process of cellular respiration, carbon dioxide is produced as a waste product."
+}

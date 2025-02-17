@@ -1,9 +1,0 @@
-{
-  "text": "the breaking down of food into simple substances occurs in the digestive system",
-  "id": 1231,
-  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: the breaking down of food into simple substances occurs in the digestive system\n\n<question>: ",
-  "ChatGPT_response_0": "The process of converting food into simpler substances takes place in the human body's digestive system.",
-  "query": "Where does the process of converting food into simpler substances take place in the human body?",
-  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: Where does the process of converting food into simpler substances take place in the human body?\n\n<reference text>: the breaking down of food into simple substances occurs in the digestive system\n\n<reply>: ",
-  "response": "The process of converting food into simpler substances takes place in the human body's digestive system."
-}

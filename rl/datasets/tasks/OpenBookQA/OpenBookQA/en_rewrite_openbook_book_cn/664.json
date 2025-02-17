@@ -1,0 +1,9 @@
+{
+  "text": "adulthood is a stage in the life cycle process",
+  "id": 664,
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: adulthood is a stage in the life cycle process\n\n<question>: ",
+  "ChatGPT_response_0": "One of the stages in the human life cycle process that follows adolescence is referred to as adulthood.",
+  "query": "What is one of the stages in the human life cycle process referred to as, particularly the one that follows adolescence?",
+  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: What is one of the stages in the human life cycle process referred to as, particularly the one that follows adolescence?\n\n<reference text>: adulthood is a stage in the life cycle process\n\n<reply>: ",
+  "response": "One of the stages in the human life cycle process that follows adolescence is referred to as adulthood."
+}

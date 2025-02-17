@@ -1,9 +1,0 @@
-{
-  "text": "fire causes burning",
-  "id": 692,
-  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: fire causes burning\n\n<question>: ",
-  "ChatGPT_response_0": "The primary effect when an object comes into contact with flames is that it undergoes burning. This process typically results in the object being consumed by the fire, leading to chemical changes such as oxidation, which can result in the release of heat, light, and various reaction products.",
-  "query": "What is the primary effect when an object comes into contact with flames?",
-  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: What is the primary effect when an object comes into contact with flames?\n\n<reference text>: fire causes burning\n\n<reply>: ",
-  "response": "The primary effect when an object comes into contact with flames is that it undergoes burning. This process typically results in the object being consumed by the fire, leading to chemical changes such as oxidation, which can result in the release of heat, light, and various reaction products."
-}

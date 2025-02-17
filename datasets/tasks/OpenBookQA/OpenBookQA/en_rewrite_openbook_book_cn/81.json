@@ -1,9 +1,0 @@
-{
-  "text": "electric devices require electrical energy to function",
-  "id": 81,
-  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: electric devices require electrical energy to function\n\n<question>: ",
-  "ChatGPT_response_0": "For electric devices to operate effectively, they need a supply of electrical energy. This energy is crucial as it powers the devices, enabling them to perform their intended functions.",
-  "query": "What is necessary for electric devices to operate effectively?",
-  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: What is necessary for electric devices to operate effectively?\n\n<reference text>: electric devices require electrical energy to function\n\n<reply>: ",
-  "response": "For electric devices to operate effectively, they need a supply of electrical energy. This energy is crucial as it powers the devices, enabling them to perform their intended functions."
-}

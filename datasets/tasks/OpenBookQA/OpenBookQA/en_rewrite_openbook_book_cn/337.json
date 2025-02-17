@@ -1,9 +1,0 @@
-{
-  "text": "if something is a raw material then that something comes directly from a source",
-  "id": 337,
-  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: if something is a raw material then that something comes directly from a source\n\n<question>: ",
-  "ChatGPT_response_0": "An item is defined as a raw material based on its origin if it is obtained directly from its source. This means that the item has not been processed or modified significantly and is in a form that is closer to its natural state. Raw materials are the basic substances used to produce goods or finished products.",
-  "query": "What defines an item as a raw material in terms of its origin?",
-  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: What defines an item as a raw material in terms of its origin?\n\n<reference text>: if something is a raw material then that something comes directly from a source\n\n<reply>: ",
-  "response": "An item is defined as a raw material based on its origin if it is obtained directly from its source. This means that the item has not been processed or modified significantly and is in a form that is closer to its natural state. Raw materials are the basic substances used to produce goods or finished products."
-}

@@ -1,9 +1,0 @@
-{
-  "text": "if an organism becomes too hot then that organism may die",
-  "id": 751,
-  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: if an organism becomes too hot then that organism may die\n\n<question>: ",
-  "ChatGPT_response_0": "A potential consequence for an organism that fails to regulate its internal temperature and becomes excessively warm is death. This can occur because excessive warmth can disrupt the organism's critical physiological processes, ultimately leading to fatal outcomes.",
-  "query": "What is a potential consequence for an organism that fails to regulate its internal temperature and becomes excessively warm?",
-  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: What is a potential consequence for an organism that fails to regulate its internal temperature and becomes excessively warm?\n\n<reference text>: if an organism becomes too hot then that organism may die\n\n<reply>: ",
-  "response": "A potential consequence for an organism that fails to regulate its internal temperature and becomes excessively warm is death. This can occur because excessive warmth can disrupt the organism's critical physiological processes, ultimately leading to fatal outcomes."
-}

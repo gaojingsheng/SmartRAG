@@ -1,9 +1,0 @@
-{
-  "text": "January is during the winter in the northern hemisphere",
-  "id": 165,
-  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: January is during the winter in the northern hemisphere\n\n<question>: ",
-  "ChatGPT_response_0": "When January arrives, it is winter season in the northern hemisphere.",
-  "query": "What season is it in the northern hemisphere when January arrives?",
-  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: What season is it in the northern hemisphere when January arrives?\n\n<reference text>: January is during the winter in the northern hemisphere\n\n<reply>: ",
-  "response": "When January arrives, it is winter season in the northern hemisphere."
-}

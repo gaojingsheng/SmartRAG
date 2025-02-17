@@ -1,9 +1,0 @@
-{
-  "text": "precipitation is when snow fall from clouds to the Earth",
-  "id": 645,
-  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: precipitation is when snow fall from clouds to the Earth\n\n<question>: ",
-  "ChatGPT_response_0": "The process when snow descends from clouds onto the Earth's surface is called precipitation.",
-  "query": "What is the process called when snow descends from clouds onto the Earth's surface?",
-  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: What is the process called when snow descends from clouds onto the Earth's surface?\n\n<reference text>: precipitation is when snow fall from clouds to the Earth\n\n<reply>: ",
-  "response": "The process when snow descends from clouds onto the Earth's surface is called precipitation."
-}

@@ -1,0 +1,9 @@
+{
+  "text": "speed is a measure of how fast an object is moving",
+  "id": 956,
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: speed is a measure of how fast an object is moving\n\n<question>: ",
+  "ChatGPT_response_0": "The rate at which an object changes its position over time is defined by its speed. Speed measures how fast an object is moving from one location to another over a given period.",
+  "query": "What defines the rate at which an object changes its position over time?",
+  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: What defines the rate at which an object changes its position over time?\n\n<reference text>: speed is a measure of how fast an object is moving\n\n<reply>: ",
+  "response": "The rate at which an object changes its position over time is defined by its speed. Speed measures how fast an object is moving from one location to another over a given period."
+}

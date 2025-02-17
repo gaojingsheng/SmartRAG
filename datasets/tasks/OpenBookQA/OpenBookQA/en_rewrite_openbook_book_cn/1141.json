@@ -1,9 +1,0 @@
-{
-  "text": "pushing an object requires force",
-  "id": 1141,
-  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: pushing an object requires force\n\n<question>: ",
-  "ChatGPT_response_0": "To move an object from one place to another, you need to apply a force to the object. This force must overcome the object's inertia and any resistance such as friction with the surface it is on. The amount and direction of the force will determine how the object moves.",
-  "query": "What is required to move an object from one place to another?",
-  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: What is required to move an object from one place to another?\n\n<reference text>: pushing an object requires force\n\n<reply>: ",
-  "response": "To move an object from one place to another, you need to apply a force to the object. This force must overcome the object's inertia and any resistance such as friction with the surface it is on. The amount and direction of the force will determine how the object moves."
-}

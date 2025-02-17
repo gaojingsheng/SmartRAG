@@ -1,9 +1,0 @@
-{
-  "text": "if a population decreases to zero then that organism is extinct",
-  "id": 982,
-  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: if a population decreases to zero then that organism is extinct\n\n<question>: ",
-  "ChatGPT_response_0": "When the total population number of a species reaches zero, the species becomes extinct. This means it no longer exists in the living world, and there is no possibility of that species naturally occurring or reproducing in the wild again.",
-  "query": "What occurs to a species when its total population number reaches zero?",
-  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: What occurs to a species when its total population number reaches zero?\n\n<reference text>: if a population decreases to zero then that organism is extinct\n\n<reply>: ",
-  "response": "When the total population number of a species reaches zero, the species becomes extinct. This means it no longer exists in the living world, and there is no possibility of that species naturally occurring or reproducing in the wild again."
-}

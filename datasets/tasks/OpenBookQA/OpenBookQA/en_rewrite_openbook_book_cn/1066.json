@@ -1,9 +1,0 @@
-{
-  "text": "living underground can be used for hiding from predators",
-  "id": 1066,
-  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: living underground can be used for hiding from predators\n\n<question>: ",
-  "ChatGPT_response_0": "One advantage of animals choosing to live underground is that it provides them with a means to hide from predators, significantly improving their chances of survival by avoiding being seen or caught.",
-  "query": "What is one advantage of animals choosing to live underground?",
-  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: What is one advantage of animals choosing to live underground?\n\n<reference text>: living underground can be used for hiding from predators\n\n<reply>: ",
-  "response": "One advantage of animals choosing to live underground is that it provides them with a means to hide from predators, significantly improving their chances of survival by avoiding being seen or caught."
-}

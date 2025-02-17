@@ -1,9 +1,0 @@
-{
-  "text": "an animal requires shelter",
-  "id": 2,
-  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: an animal requires shelter\n\n<question>: ",
-  "ChatGPT_response_0": "Apart from food and water, shelter is an essential need for an animal's survival. Shelter provides animals with protection from predators, harsh weather conditions, and extreme temperatures, creating a safe space for resting, raising offspring, and sometimes storing food. It is crucial for their well-being and overall survival in their natural habitat or living environment.",
-  "query": "What is an essential need of an animal for its survival apart from food and water?",
-  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: What is an essential need of an animal for its survival apart from food and water?\n\n<reference text>: an animal requires shelter\n\n<reply>: ",
-  "response": "Apart from food and water, shelter is an essential need for an animal's survival. Shelter provides animals with protection from predators, harsh weather conditions, and extreme temperatures, creating a safe space for resting, raising offspring, and sometimes storing food. It is crucial for their well-being and overall survival in their natural habitat or living environment."
-}

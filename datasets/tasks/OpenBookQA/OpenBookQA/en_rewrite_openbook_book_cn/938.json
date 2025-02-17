@@ -1,9 +1,0 @@
-{
-  "text": "deep sea animals live deep in the ocean",
-  "id": 938,
-  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: deep sea animals live deep in the ocean\n\n<question>: ",
-  "ChatGPT_response_0": "Deep-sea animals are found in the depths of the ocean. This environment is characterized by high pressure, low temperatures, and complete darkness beyond the reach of sunlight. These conditions create a unique habitat for a diverse range of species that have adapted to survive in this challenging environment.",
-  "query": "What is the habitat of deep-sea animals?",
-  "ChatGPT_query_a": "You are KnowledgeGPT, equipped with in-depth knowledge. Your task is to directly answer the user's <question>. You can refer to the <referenced text> for your reply, but your response should not reveal that you have referenced the text. Ensure that responses are thorough, informative and as helpful as possible to users.\n\n<question>: What is the habitat of deep-sea animals?\n\n<reference text>: deep sea animals live deep in the ocean\n\n<reply>: ",
-  "response": "Deep-sea animals are found in the depths of the ocean. This environment is characterized by high pressure, low temperatures, and complete darkness beyond the reach of sunlight. These conditions create a unique habitat for a diverse range of species that have adapted to survive in this challenging environment."
-}
